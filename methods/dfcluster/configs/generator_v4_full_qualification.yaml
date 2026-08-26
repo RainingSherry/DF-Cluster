@@ -1,0 +1,23 @@
+protocol:
+  id: generator_v4_full_source_complexity_qualification_v2_information_strata
+  source_plan: 0824思路详细版.md
+  task_selection_performed: false
+  labels_opened: false
+  performance_claim: false
+contract:
+  generator_seeds: [20260825]
+  tasks_per_observation_stratum: 64
+qualification:
+  generator_seeds: [20260825, 20260826, 20260827]
+  tasks_per_observation_stratum: 4096
+strata: [tabicl_graph_mlp, tabicl_tree, mitra_inspired_tbp, flow_analytic, mixed]
+sampling:
+  N: log_uniform_[128,2048]
+  D: log_uniform_[10,160]
+  K: discrete_uniform_[2,20]
+  d_int: p_proportional_to_inverse_sqrt_d_over_[2,128]
+  mixed_type_target_rates: [0.0, 0.10, 0.25, 0.50]
+  missing_rates: [0.0, 0.05, 0.10, 0.20, 0.30]
+  informative_root_to_leaf_depth: [3,8]
+  parent_count: [1,5]
+  information_strata: [preserving, noisy_recoverable, controlled_lossy]

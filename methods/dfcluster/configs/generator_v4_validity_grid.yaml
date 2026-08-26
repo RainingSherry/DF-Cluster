@@ -1,0 +1,46 @@
+version: 1
+status: audit_grid_only
+purpose: pre-corpus_generator_validity_coverage
+fixed_gate:
+  clean_ari_at_least: 0.90
+  ari_headroom_at_least: 0.20
+  extra_trees_macro_f1_at_least: 0.75
+  extra_trees_n_estimators: 256
+  extra_trees_max_features: sqrt
+  extra_trees_class_weight: balanced
+  extra_trees_random_state: 20260824
+  kmeans_n_init: 20
+  kmeans_random_state: 20260824
+profiles:
+  easy:
+    raw_ari_range: [0.50, 0.80]
+    noise_scale: [0.8, 1.2]
+    missing_rate: [0.10, 0.20]
+    observation_families: [tabicl_tree, mixed, mitra_inspired_tbp]
+  medium:
+    raw_ari_range: [0.15, 0.50]
+    noise_scale: [0.8, 1.2]
+    missing_rate: [0.05, 0.15]
+    observation_families: [tabicl_tree, mixed, mitra_inspired_tbp]
+  hard_but_recoverable:
+    raw_ari_range: [-1.0, 0.15]
+    noise_scale: [0.9, 1.2]
+    missing_rate: [0.0, 0.10]
+    clean_families: [student_t, factor, hierarchical]
+    observation_families: [tabicl_tree, mixed, mitra_inspired_tbp]
+controls:
+  impossible_controls: separate_manifest_required
+  labels_opened: audit_only
+  labels_to_model_input: forbidden
+  performance_claim: false
+  full_corpus_generation: not_authorized
+fixed_cases:
+  - {case_id: easy_tree_01, expected_profile: easy, observation_family: tabicl_tree, clean_family: student_t, noise_scale: 1.2, missingness: mnar, missing_rate: 0.20, seed: 9005}
+  - {case_id: easy_mixed_01, expected_profile: easy, observation_family: mixed, clean_family: student_t, noise_scale: 0.8, missingness: mnar, missing_rate: 0.10, seed: 9004}
+  - {case_id: easy_mixed_02, expected_profile: easy, observation_family: mixed, clean_family: student_t, noise_scale: 1.0, missingness: mnar, missing_rate: 0.20, seed: 9007}
+  - {case_id: medium_mitra_01, expected_profile: medium, observation_family: mitra_inspired_tbp, clean_family: student_t, noise_scale: 0.8, missingness: mnar, missing_rate: 0.10, seed: 9008}
+  - {case_id: medium_mitra_02, expected_profile: medium, observation_family: mitra_inspired_tbp, clean_family: student_t, noise_scale: 1.2, missingness: mnar, missing_rate: 0.10, seed: 9028}
+  - {case_id: medium_tree_01, expected_profile: medium, observation_family: tabicl_tree, clean_family: factor, noise_scale: 1.0, missingness: mnar, missing_rate: 0.10, seed: 10022}
+  - {case_id: hard_tree_01, expected_profile: hard_but_recoverable, observation_family: tabicl_tree, clean_family: hierarchical, noise_scale: 0.9, missingness: mcar, missing_rate: 0.00, seed: 10003}
+  - {case_id: hard_tree_02, expected_profile: hard_but_recoverable, observation_family: tabicl_tree, clean_family: student_t, noise_scale: 0.9, missingness: mnar, missing_rate: 0.05, seed: 10001}
+  - {case_id: hard_mixed_01, expected_profile: hard_but_recoverable, observation_family: mixed, clean_family: hierarchical, noise_scale: 0.9, missingness: mnar, missing_rate: 0.10, seed: 10059}

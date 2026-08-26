@@ -1,0 +1,39 @@
+generator:
+  version: 4
+  status: source_complexity_implementation_in_progress
+  module: methods/dfcluster/generator_v4
+  ambient_dim: 128
+  n_samples: [128, 2048]
+  n_features: [10, 160]
+  n_clusters: [2, 20]
+  intrinsic_dim: [2, 128]
+  clean_families: [gaussian, student_t, factor, hierarchical]
+  observation_families: [tabicl_graph_mlp, tabicl_tree, mitra_inspired_tbp, flow_analytic, mixed]
+  information_strata: [preserving, noisy_recoverable, controlled_lossy]
+  missingness: [mcar, mar, mnar]
+  max_cells: 327680
+  label_free_observation_signature: [clean_latent, nuisance_roots, graph, row_ids]
+  forbidden_observation_arguments: [labels, y, K, CLM, ARI, clean_generator_hidden_parameters]
+resources:
+  allowed_physical_gpus: [1, 2, 3, 4, 5, 6]
+  forbidden_physical_gpus: [0, 7]
+execution:
+  cpu_contract_only: true
+  corpus_generation_authorized: false
+  new_gpu_training_authorized: false
+  smoke_is_performance_evidence: false
+gates:
+  finite: true
+  replay: exact
+  label_isolation: true
+  row_permutation_equivariance: true
+  source_sha_recorded: true
+  provenance_required: true
+
+observation_roles:
+  fractions: {informative: 0.50, redundant: 0.20, nuisance: 0.20, irrelevant: 0.10}
+  model_input_contains_role_metadata: false
+validity:
+  selection_policy: audit_only
+  task_selection_performed: false
+  labels_opened_only_in_audit: true

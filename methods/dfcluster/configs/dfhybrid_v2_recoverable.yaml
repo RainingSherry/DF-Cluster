@@ -1,0 +1,48 @@
+# ⚠️  DEPRECATED: Part of terminated V1/V2/V3 research line. See ../DEPRECATION_NOTICE.md
+
+protocol:
+  name: dfhybrid_v2_redundant_views
+  version: 1
+  purpose: pre-method recoverable-corruption benchmark falsification
+  method_claim: restricted to this known paired-view forward family
+
+sampling:
+  tasks: 512
+  split: train
+  base_seed: 20260824
+  n_samples: [256, 512, 1024]
+  intrinsic_dims: [8, 16, 32]
+  n_clusters_min: 2
+  n_clusters_max: 8
+  minimum_cluster_size: 16
+  clean_center_pair_distance: 6.0
+  clean_cluster_std: 0.6
+
+observation:
+  views: 2
+  orthogonal_mixing_per_view: true
+  shared_componentwise_map: "t + 0.75*t^3"
+  cubic_strength: 0.75
+  additive_noise_std: 0.02
+  row_view_pattern:
+    both: 0.25
+    view_1_only: 0.375
+    view_2_only: 0.375
+  quantization: none
+  forward_reads_labels: false
+  analytic_oracle_reads_labels: false
+
+acceptance:
+  max_raw_cka_median: 0.80
+  min_oracle_cka_median: 0.95
+  min_oracle_cka_q10: 0.90
+  min_oracle_minus_raw_cka_median: 0.15
+  min_oracle_minus_raw_cka_q10: 0.10
+  max_oracle_stress_median: 0.10
+  regeneration_checks: 64
+  failure_action: terminate_without_generator_or_method_sweep
+
+prohibitions:
+  corpus_acceptance_fields: [Y, K, ARI, NMI, CLM]
+  method_training_before_acceptance: false
+  generator_variants_after_failure: 0

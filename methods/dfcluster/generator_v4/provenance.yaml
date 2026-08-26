@@ -1,0 +1,58 @@
+version: 2
+name: dfcluster_generator_v4_p0_p1
+status: implementation_contract_only
+upstream:
+  tabicl_icml2025:
+    repository: https://github.com/soda-inria/tabicl
+    revision: e88d1600701240fd353803bf1b73b5309b18d406
+    license: BSD-3-Clause
+    reuse: paper-era MLP-SCM and Tree-SCM design reference; adapter is newly implemented
+  tabicl_current:
+    repository: https://github.com/soda-inria/tabicl
+    revision: 8f1aa2098c894ab91dba15209cf2002ba4be6c6c
+    license: BSD-3-Clause
+    reuse: current GraphSCM and graph-library audit reference only
+  tabclustpfn:
+    repository: https://github.com/Tianqi-Zhao/TabClustPFN
+    revision: 5673beaab72d69bb9db30da2740aef90975a3e0c
+    license: CC-BY-NC-4.0
+    reuse: controlled-overlap clean mixture design reference only
+  mitra:
+    paper: https://arxiv.org/abs/2510.21204
+    revision: arxiv-2510.21204
+    license: paper-described; generator source unavailable
+    reuse: MITRA-inspired TBP naming and algorithm strata; no official code copied
+local_implementation:
+  observation_root_contract: clean_latent_128d_plus_nuisance_only
+  labels_to_observation_map: forbidden
+  generator_family_to_model_input: forbidden
+  clean_target_to_inference_payload: forbidden
+  mixed_heads: [numerical, categorical, ordinal, count, bounded]
+  missingness: [mcar, mar, mnar]
+  information_strata:
+    preserving: dimension-preserving flow/monotone descendants plus existing redundant heads
+    noisy_recoverable: random scale, correlated nuisance, heteroscedastic noise and outliers
+    controlled_lossy: low-rank feature projection, finite quantization, thresholding and row-key random masking
+  status: P0/P1 CPU contract; no corpus generation or new GPU training authorized
+
+  role_aware_graph:
+    column_roles: [informative, redundant, nuisance, irrelevant]
+    role_assignment: fixed_predeclared_fraction_50_20_20_10
+    role_used_for_model_input: false
+    role_used_for_validity_task_selection: false
+mechanisms:
+  tabicl_mlp:
+    upstream_reference: baseline/external/tabicl_icml2025/src/tabicl/prior/mlp_scm.py
+    local_file: methods/dfcluster/generator_v4/mechanisms.py
+    upstream_behavior_reused: random MLP blocks, activation/noise pattern, root-to-descendant separation
+    local_changes: root injection from Z_clean/nuisance, single-descendant API, deterministic row-key noise, no y
+  tabicl_tree:
+    upstream_reference: baseline/external/tabicl_icml2025/src/tabicl/prior/tree_scm.py
+    local_file: methods/dfcluster/generator_v4/mechanisms.py
+    upstream_behavior_reused: tree regression as a stochastic nonlinear descendant transform
+    local_changes: deterministic pseudo-target from parents, row-id-sorted fitting, no labels, bounded local estimator
+  mitra_tbp:
+    upstream_reference: papers/references/md/MinerU_markdown_MITRA_-mitra-mixed-synthetic-priors-for-enhancing-tabular-foundation-models-Paper-Conference_2091866791171346433.md
+    local_file: methods/dfcluster/generator_v4/mechanisms.py
+    upstream_behavior_reused: TBP/ensemble prior idea only
+    local_changes: ExtraTrees pseudo-target adapter; not official MITRA code or generator reproduction
