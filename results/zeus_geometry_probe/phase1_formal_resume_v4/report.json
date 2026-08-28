@@ -1,0 +1,1696 @@
+{
+  "aggregate_summary": {
+    "geometry": {
+      "100000": {
+        "gaussian": {
+          "ari_representation": {
+            "mean": 0.7892159400063083,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_obs": {
+            "mean": 0.7848215089955072,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_ref": {
+            "mean": 0.7848215089955072,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "cka_to_x_ref": {
+            "mean": 0.998246215581894,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "distance_spearman_to_x_ref": {
+            "mean": 0.9972259253190536,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "knn_overlap_to_x_ref": {
+            "mean": 0.9278092813491822,
+            "n_seeds": 1,
+            "std": 0.0
+          }
+        },
+        "gaussian_transformed": {
+          "ari_representation": {
+            "mean": 0.6447365567925614,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_obs": {
+            "mean": 0.6302233592089085,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_ref": {
+            "mean": 0.8115899750828973,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "cka_to_x_ref": {
+            "mean": 0.6330559894442558,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "distance_spearman_to_x_ref": {
+            "mean": 0.6115520471268721,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "knn_overlap_to_x_ref": {
+            "mean": 0.26779230922460556,
+            "n_seeds": 1,
+            "std": 0.0
+          }
+        }
+      },
+      "20000": {
+        "gaussian": {
+          "ari_representation": {
+            "mean": 0.7722996504549543,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_obs": {
+            "mean": 0.7848215089955072,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_ref": {
+            "mean": 0.7848215089955072,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "cka_to_x_ref": {
+            "mean": 0.9912966901063919,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "distance_spearman_to_x_ref": {
+            "mean": 0.9852257549524913,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "knn_overlap_to_x_ref": {
+            "mean": 0.8625764626264573,
+            "n_seeds": 1,
+            "std": 0.0
+          }
+        },
+        "gaussian_transformed": {
+          "ari_representation": {
+            "mean": 0.6417249880191734,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_obs": {
+            "mean": 0.6303866362211383,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_ref": {
+            "mean": 0.8115907776643219,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "cka_to_x_ref": {
+            "mean": 0.6064501392841339,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "distance_spearman_to_x_ref": {
+            "mean": 0.6072141847767252,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "knn_overlap_to_x_ref": {
+            "mean": 0.2707713159173727,
+            "n_seeds": 1,
+            "std": 0.0
+          }
+        }
+      },
+      "5000": {
+        "gaussian": {
+          "ari_representation": {
+            "mean": 0.7599695152314057,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_obs": {
+            "mean": 0.7848215089955072,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_ref": {
+            "mean": 0.7848215089955072,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "cka_to_x_ref": {
+            "mean": 0.9913297235965729,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "distance_spearman_to_x_ref": {
+            "mean": 0.9855912706034949,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "knn_overlap_to_x_ref": {
+            "mean": 0.8620090752840042,
+            "n_seeds": 1,
+            "std": 0.0
+          }
+        },
+        "gaussian_transformed": {
+          "ari_representation": {
+            "mean": 0.6054891741469085,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_obs": {
+            "mean": 0.6303866362211383,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_ref": {
+            "mean": 0.8115907776643219,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "cka_to_x_ref": {
+            "mean": 0.5864088395237923,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "distance_spearman_to_x_ref": {
+            "mean": 0.5978277057339955,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "knn_overlap_to_x_ref": {
+            "mean": 0.27571556746959686,
+            "n_seeds": 1,
+            "std": 0.0
+          }
+        }
+      },
+      "50000": {
+        "gaussian": {
+          "ari_representation": {
+            "mean": 0.7804819102544706,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_obs": {
+            "mean": 0.7848215089955072,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_ref": {
+            "mean": 0.7848215089955072,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "cka_to_x_ref": {
+            "mean": 0.9954669064283371,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "distance_spearman_to_x_ref": {
+            "mean": 0.9930349024357529,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "knn_overlap_to_x_ref": {
+            "mean": 0.8946424168348313,
+            "n_seeds": 1,
+            "std": 0.0
+          }
+        },
+        "gaussian_transformed": {
+          "ari_representation": {
+            "mean": 0.6455397958425131,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_obs": {
+            "mean": 0.6303866362211383,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_ref": {
+            "mean": 0.8115907776643219,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "cka_to_x_ref": {
+            "mean": 0.6225398901104927,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "distance_spearman_to_x_ref": {
+            "mean": 0.6092422256651935,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "knn_overlap_to_x_ref": {
+            "mean": 0.26898157469928263,
+            "n_seeds": 1,
+            "std": 0.0
+          }
+        }
+      },
+      "75000": {
+        "gaussian": {
+          "ari_representation": {
+            "mean": 0.7873502786759752,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_obs": {
+            "mean": 0.7848215089955072,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_ref": {
+            "mean": 0.7848215089955072,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "cka_to_x_ref": {
+            "mean": 0.9976021754741669,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "distance_spearman_to_x_ref": {
+            "mean": 0.9960880717372835,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "knn_overlap_to_x_ref": {
+            "mean": 0.9197416740655899,
+            "n_seeds": 1,
+            "std": 0.0
+          }
+        },
+        "gaussian_transformed": {
+          "ari_representation": {
+            "mean": 0.6377763845003794,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_obs": {
+            "mean": 0.6303866362211383,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_ref": {
+            "mean": 0.8115907776643219,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "cka_to_x_ref": {
+            "mean": 0.6298718950152398,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "distance_spearman_to_x_ref": {
+            "mean": 0.6100235799015654,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "knn_overlap_to_x_ref": {
+            "mean": 0.26825625739991665,
+            "n_seeds": 1,
+            "std": 0.0
+          }
+        }
+      },
+      "90000": {
+        "gaussian": {
+          "ari_representation": {
+            "mean": 0.7867525937949625,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_obs": {
+            "mean": 0.7848215089955072,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_ref": {
+            "mean": 0.7848215089955072,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "cka_to_x_ref": {
+            "mean": 0.9982448226213455,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "distance_spearman_to_x_ref": {
+            "mean": 0.9971930812960664,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "knn_overlap_to_x_ref": {
+            "mean": 0.927346886396408,
+            "n_seeds": 1,
+            "std": 0.0
+          }
+        },
+        "gaussian_transformed": {
+          "ari_representation": {
+            "mean": 0.6432134742717958,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_obs": {
+            "mean": 0.6303866362211383,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_ref": {
+            "mean": 0.8115907776643219,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "cka_to_x_ref": {
+            "mean": 0.6327517664432526,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "distance_spearman_to_x_ref": {
+            "mean": 0.6112860254366702,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "knn_overlap_to_x_ref": {
+            "mean": 0.2679707296192646,
+            "n_seeds": 1,
+            "std": 0.0
+          }
+        }
+      }
+    },
+    "zeus": {
+      "100000": {
+        "gaussian": {
+          "ari_representation": {
+            "mean": 0.8693187980405984,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_obs": {
+            "mean": 0.7848215089955072,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_ref": {
+            "mean": 0.784834855392131,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "cka_to_x_ref": {
+            "mean": 0.5802755972743034,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "distance_spearman_to_x_ref": {
+            "mean": 0.5462989808170835,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "knn_overlap_to_x_ref": {
+            "mean": 0.08738594410941004,
+            "n_seeds": 1,
+            "std": 0.0
+          }
+        },
+        "gaussian_transformed": {
+          "ari_representation": {
+            "mean": 0.8161718498539844,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_obs": {
+            "mean": 0.630241935554831,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_ref": {
+            "mean": 0.8115899750828973,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "cka_to_x_ref": {
+            "mean": 0.44512861102819445,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "distance_spearman_to_x_ref": {
+            "mean": 0.3889720965578358,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "knn_overlap_to_x_ref": {
+            "mean": 0.06319862991571426,
+            "n_seeds": 1,
+            "std": 0.0
+          }
+        }
+      },
+      "20000": {
+        "gaussian": {
+          "ari_representation": {
+            "mean": 0.16351394171660918,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_obs": {
+            "mean": 0.7848215089955072,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_ref": {
+            "mean": 0.7848215089955072,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "cka_to_x_ref": {
+            "mean": 0.324533950984478,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "distance_spearman_to_x_ref": {
+            "mean": 0.025612818376882243,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "knn_overlap_to_x_ref": {
+            "mean": 0.011602741747628898,
+            "n_seeds": 1,
+            "std": 0.0
+          }
+        },
+        "gaussian_transformed": {
+          "ari_representation": {
+            "mean": 0.12243124129540535,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_obs": {
+            "mean": 0.6303866362211383,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_ref": {
+            "mean": 0.8115907776643219,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "cka_to_x_ref": {
+            "mean": 0.18900750316679477,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "distance_spearman_to_x_ref": {
+            "mean": 0.012978926667442915,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "knn_overlap_to_x_ref": {
+            "mean": 0.007760895417886786,
+            "n_seeds": 1,
+            "std": 0.0
+          }
+        }
+      },
+      "5000": {
+        "gaussian": {
+          "ari_representation": {
+            "mean": 0.4610174013125832,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_obs": {
+            "mean": 0.7848215089955072,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_ref": {
+            "mean": 0.7848215089955072,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "cka_to_x_ref": {
+            "mean": 0.5158456493914128,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "distance_spearman_to_x_ref": {
+            "mean": 0.5064257674425803,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "knn_overlap_to_x_ref": {
+            "mean": 0.13145675741136073,
+            "n_seeds": 1,
+            "std": 0.0
+          }
+        },
+        "gaussian_transformed": {
+          "ari_representation": {
+            "mean": 0.42343377019181205,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_obs": {
+            "mean": 0.6303866362211383,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_ref": {
+            "mean": 0.8115907776643219,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "cka_to_x_ref": {
+            "mean": 0.3660095700621605,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "distance_spearman_to_x_ref": {
+            "mean": 0.38294401222750196,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "knn_overlap_to_x_ref": {
+            "mean": 0.0913339675590396,
+            "n_seeds": 1,
+            "std": 0.0
+          }
+        }
+      },
+      "50000": {
+        "gaussian": {
+          "ari_representation": {
+            "mean": 0.8230528169538408,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_obs": {
+            "mean": 0.7848215089955072,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_ref": {
+            "mean": 0.7848215089955072,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "cka_to_x_ref": {
+            "mean": 0.5778359347581863,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "distance_spearman_to_x_ref": {
+            "mean": 0.5385415600171249,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "knn_overlap_to_x_ref": {
+            "mean": 0.10281207263469697,
+            "n_seeds": 1,
+            "std": 0.0
+          }
+        },
+        "gaussian_transformed": {
+          "ari_representation": {
+            "mean": 0.7532706574107095,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_obs": {
+            "mean": 0.6303866362211383,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_ref": {
+            "mean": 0.8115907776643219,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "cka_to_x_ref": {
+            "mean": 0.4432333371043205,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "distance_spearman_to_x_ref": {
+            "mean": 0.3910243244449174,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "knn_overlap_to_x_ref": {
+            "mean": 0.07179365802556276,
+            "n_seeds": 1,
+            "std": 0.0
+          }
+        }
+      },
+      "75000": {
+        "gaussian": {
+          "ari_representation": {
+            "mean": 0.868229352248338,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_obs": {
+            "mean": 0.7848215089955072,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_ref": {
+            "mean": 0.7848215089955072,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "cka_to_x_ref": {
+            "mean": 0.5822432705760002,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "distance_spearman_to_x_ref": {
+            "mean": 0.5477131025797832,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "knn_overlap_to_x_ref": {
+            "mean": 0.08883991457521916,
+            "n_seeds": 1,
+            "std": 0.0
+          }
+        },
+        "gaussian_transformed": {
+          "ari_representation": {
+            "mean": 0.800070595158377,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_obs": {
+            "mean": 0.6303866362211383,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_ref": {
+            "mean": 0.8115907776643219,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "cka_to_x_ref": {
+            "mean": 0.442151640355587,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "distance_spearman_to_x_ref": {
+            "mean": 0.3878924121743368,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "knn_overlap_to_x_ref": {
+            "mean": 0.06434396993368864,
+            "n_seeds": 1,
+            "std": 0.0
+          }
+        }
+      },
+      "90000": {
+        "gaussian": {
+          "ari_representation": {
+            "mean": 0.8694102795677963,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_obs": {
+            "mean": 0.7848215089955072,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_ref": {
+            "mean": 0.7848215089955072,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "cka_to_x_ref": {
+            "mean": 0.579684567451477,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "distance_spearman_to_x_ref": {
+            "mean": 0.5467191015357343,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "knn_overlap_to_x_ref": {
+            "mean": 0.0876830556243658,
+            "n_seeds": 1,
+            "std": 0.0
+          }
+        },
+        "gaussian_transformed": {
+          "ari_representation": {
+            "mean": 0.810662662790169,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_obs": {
+            "mean": 0.6303866362211383,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "ari_x_ref": {
+            "mean": 0.8115907776643219,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "cka_to_x_ref": {
+            "mean": 0.44350065603852273,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "distance_spearman_to_x_ref": {
+            "mean": 0.38823670782617453,
+            "n_seeds": 1,
+            "std": 0.0
+          },
+          "knn_overlap_to_x_ref": {
+            "mean": 0.06371297331526876,
+            "n_seeds": 1,
+            "std": 0.0
+          }
+        }
+      }
+    }
+  },
+  "arms": {
+    "42": {
+      "geometry": {
+        "checkpoints": [
+          {
+            "checkpoint": "runs/seed_42/geometry/checkpoints/checkpoint_5000.pt",
+            "metrics": "runs/seed_42/geometry/metrics/checkpoint_5000.json",
+            "reused_from": "/data/luolie/DF-Cluster/outputs/zeus_geometry_probe/phase1_formal_resume_v3/runs/seed_42/geometry/checkpoints/checkpoint_5000.pt",
+            "step": 5000,
+            "summary": {
+              "gaussian": {
+                "ari_representation": {
+                  "mean": 0.7599695152314057,
+                  "std": 0.20851648792277175
+                },
+                "ari_x_obs": {
+                  "mean": 0.7848215089955072,
+                  "std": 0.20171145803934123
+                },
+                "ari_x_ref": {
+                  "mean": 0.7848215089955072,
+                  "std": 0.20171145803934123
+                },
+                "cka_to_x_ref": {
+                  "mean": 0.9913297235965729,
+                  "std": 0.0040108919685898714
+                },
+                "distance_spearman_to_x_ref": {
+                  "mean": 0.9855912706034949,
+                  "std": 0.005656136641903423
+                },
+                "knn_overlap_to_x_ref": {
+                  "mean": 0.8620090752840042,
+                  "std": 0.05375484529871713
+                }
+              },
+              "gaussian_transformed": {
+                "ari_representation": {
+                  "mean": 0.6054891741469085,
+                  "std": 0.2442642314435329
+                },
+                "ari_x_obs": {
+                  "mean": 0.6303866362211383,
+                  "std": 0.2601842580913761
+                },
+                "ari_x_ref": {
+                  "mean": 0.8115907776643219,
+                  "std": 0.18913022620265102
+                },
+                "cka_to_x_ref": {
+                  "mean": 0.5864088395237923,
+                  "std": 0.1900821643391544
+                },
+                "distance_spearman_to_x_ref": {
+                  "mean": 0.5978277057339955,
+                  "std": 0.16216623964328433
+                },
+                "knn_overlap_to_x_ref": {
+                  "mean": 0.27571556746959686,
+                  "std": 0.13506844876748322
+                }
+              }
+            }
+          },
+          {
+            "checkpoint": "runs/seed_42/geometry/checkpoints/checkpoint_20000.pt",
+            "metrics": "runs/seed_42/geometry/metrics/checkpoint_20000.json",
+            "reused_from": "/data/luolie/DF-Cluster/outputs/zeus_geometry_probe/phase1_formal_resume_v3/runs/seed_42/geometry/checkpoints/checkpoint_20000.pt",
+            "step": 20000,
+            "summary": {
+              "gaussian": {
+                "ari_representation": {
+                  "mean": 0.7722996504549543,
+                  "std": 0.20340218398342153
+                },
+                "ari_x_obs": {
+                  "mean": 0.7848215089955072,
+                  "std": 0.20171145803934123
+                },
+                "ari_x_ref": {
+                  "mean": 0.7848215089955072,
+                  "std": 0.20171145803934123
+                },
+                "cka_to_x_ref": {
+                  "mean": 0.9912966901063919,
+                  "std": 0.004186941075238362
+                },
+                "distance_spearman_to_x_ref": {
+                  "mean": 0.9852257549524913,
+                  "std": 0.006464922297869311
+                },
+                "knn_overlap_to_x_ref": {
+                  "mean": 0.8625764626264573,
+                  "std": 0.05266251769669507
+                }
+              },
+              "gaussian_transformed": {
+                "ari_representation": {
+                  "mean": 0.6417249880191734,
+                  "std": 0.22976769260637686
+                },
+                "ari_x_obs": {
+                  "mean": 0.6303866362211383,
+                  "std": 0.2601842580913761
+                },
+                "ari_x_ref": {
+                  "mean": 0.8115907776643219,
+                  "std": 0.18913022620265102
+                },
+                "cka_to_x_ref": {
+                  "mean": 0.6064501392841339,
+                  "std": 0.1845072292702863
+                },
+                "distance_spearman_to_x_ref": {
+                  "mean": 0.6072141847767252,
+                  "std": 0.16153797507813022
+                },
+                "knn_overlap_to_x_ref": {
+                  "mean": 0.2707713159173727,
+                  "std": 0.13206201692944
+                }
+              }
+            }
+          },
+          {
+            "checkpoint": "runs/seed_42/geometry/checkpoints/checkpoint_50000.pt",
+            "metrics": "runs/seed_42/geometry/metrics/checkpoint_50000.json",
+            "reused_from": "/data/luolie/DF-Cluster/outputs/zeus_geometry_probe/phase1_formal_resume_v3/runs/seed_42/geometry/checkpoints/checkpoint_50000.pt",
+            "step": 50000,
+            "summary": {
+              "gaussian": {
+                "ari_representation": {
+                  "mean": 0.7804819102544706,
+                  "std": 0.1925919749207014
+                },
+                "ari_x_obs": {
+                  "mean": 0.7848215089955072,
+                  "std": 0.20171145803934123
+                },
+                "ari_x_ref": {
+                  "mean": 0.7848215089955072,
+                  "std": 0.20171145803934123
+                },
+                "cka_to_x_ref": {
+                  "mean": 0.9954669064283371,
+                  "std": 0.0031366878950011843
+                },
+                "distance_spearman_to_x_ref": {
+                  "mean": 0.9930349024357529,
+                  "std": 0.003565565872667601
+                },
+                "knn_overlap_to_x_ref": {
+                  "mean": 0.8946424168348313,
+                  "std": 0.023950475699056017
+                }
+              },
+              "gaussian_transformed": {
+                "ari_representation": {
+                  "mean": 0.6455397958425131,
+                  "std": 0.22395071091773977
+                },
+                "ari_x_obs": {
+                  "mean": 0.6303866362211383,
+                  "std": 0.2601842580913761
+                },
+                "ari_x_ref": {
+                  "mean": 0.8115907776643219,
+                  "std": 0.18913022620265102
+                },
+                "cka_to_x_ref": {
+                  "mean": 0.6225398901104927,
+                  "std": 0.1776880651933038
+                },
+                "distance_spearman_to_x_ref": {
+                  "mean": 0.6092422256651935,
+                  "std": 0.16210746594707734
+                },
+                "knn_overlap_to_x_ref": {
+                  "mean": 0.26898157469928263,
+                  "std": 0.13245090851269678
+                }
+              }
+            }
+          },
+          {
+            "checkpoint": "runs/seed_42/geometry/checkpoints/checkpoint_75000.pt",
+            "metrics": "runs/seed_42/geometry/metrics/checkpoint_75000.json",
+            "reused_from": "/data/luolie/DF-Cluster/outputs/zeus_geometry_probe/phase1_formal_resume_v3/runs/seed_42/geometry/checkpoints/checkpoint_75000.pt",
+            "step": 75000,
+            "summary": {
+              "gaussian": {
+                "ari_representation": {
+                  "mean": 0.7873502786759752,
+                  "std": 0.19778617156706849
+                },
+                "ari_x_obs": {
+                  "mean": 0.7848215089955072,
+                  "std": 0.20171145803934123
+                },
+                "ari_x_ref": {
+                  "mean": 0.7848215089955072,
+                  "std": 0.20171145803934123
+                },
+                "cka_to_x_ref": {
+                  "mean": 0.9976021754741669,
+                  "std": 0.0014637012406826652
+                },
+                "distance_spearman_to_x_ref": {
+                  "mean": 0.9960880717372835,
+                  "std": 0.002261598473527912
+                },
+                "knn_overlap_to_x_ref": {
+                  "mean": 0.9197416740655899,
+                  "std": 0.01643744472191477
+                }
+              },
+              "gaussian_transformed": {
+                "ari_representation": {
+                  "mean": 0.6377763845003794,
+                  "std": 0.23821830563275997
+                },
+                "ari_x_obs": {
+                  "mean": 0.6303866362211383,
+                  "std": 0.2601842580913761
+                },
+                "ari_x_ref": {
+                  "mean": 0.8115907776643219,
+                  "std": 0.18913022620265102
+                },
+                "cka_to_x_ref": {
+                  "mean": 0.6298718950152398,
+                  "std": 0.1760889095773621
+                },
+                "distance_spearman_to_x_ref": {
+                  "mean": 0.6100235799015654,
+                  "std": 0.16817933109450137
+                },
+                "knn_overlap_to_x_ref": {
+                  "mean": 0.26825625739991665,
+                  "std": 0.13455587259630536
+                }
+              }
+            }
+          },
+          {
+            "checkpoint": "runs/seed_42/geometry/checkpoints/checkpoint_90000.pt",
+            "metrics": "runs/seed_42/geometry/metrics/checkpoint_90000.json",
+            "resumed_from": "/data/luolie/DF-Cluster/outputs/zeus_geometry_probe/phase1_formal_resume_v3/runs/seed_42/geometry/checkpoints/checkpoint_90000.pt",
+            "step": 90000,
+            "summary": {
+              "gaussian": {
+                "ari_representation": {
+                  "mean": 0.7867525937949625,
+                  "std": 0.19950424680578088
+                },
+                "ari_x_obs": {
+                  "mean": 0.7848215089955072,
+                  "std": 0.20171145803934123
+                },
+                "ari_x_ref": {
+                  "mean": 0.7848215089955072,
+                  "std": 0.20171145803934123
+                },
+                "cka_to_x_ref": {
+                  "mean": 0.9982448226213455,
+                  "std": 0.0012790596114693837
+                },
+                "distance_spearman_to_x_ref": {
+                  "mean": 0.9971930812960664,
+                  "std": 0.0017883884889452937
+                },
+                "knn_overlap_to_x_ref": {
+                  "mean": 0.927346886396408,
+                  "std": 0.014985551638951938
+                }
+              },
+              "gaussian_transformed": {
+                "ari_representation": {
+                  "mean": 0.6432134742717958,
+                  "std": 0.22481469212844632
+                },
+                "ari_x_obs": {
+                  "mean": 0.6303866362211383,
+                  "std": 0.2601842580913761
+                },
+                "ari_x_ref": {
+                  "mean": 0.8115907776643219,
+                  "std": 0.18913022620265102
+                },
+                "cka_to_x_ref": {
+                  "mean": 0.6327517664432526,
+                  "std": 0.1745773324437248
+                },
+                "distance_spearman_to_x_ref": {
+                  "mean": 0.6112860254366702,
+                  "std": 0.16724322843777914
+                },
+                "knn_overlap_to_x_ref": {
+                  "mean": 0.2679707296192646,
+                  "std": 0.1348933994717045
+                }
+              }
+            }
+          },
+          {
+            "checkpoint": "runs/seed_42/geometry/checkpoints/checkpoint_100000.pt",
+            "metrics": "runs/seed_42/geometry/metrics/checkpoint_100000.json",
+            "step": 100000,
+            "summary": {
+              "gaussian": {
+                "ari_representation": {
+                  "mean": 0.7892159400063083,
+                  "std": 0.1953462681799049
+                },
+                "ari_x_obs": {
+                  "mean": 0.7848215089955072,
+                  "std": 0.20171145803934123
+                },
+                "ari_x_ref": {
+                  "mean": 0.7848215089955072,
+                  "std": 0.20171145803934123
+                },
+                "cka_to_x_ref": {
+                  "mean": 0.998246215581894,
+                  "std": 0.0016560480863357218
+                },
+                "distance_spearman_to_x_ref": {
+                  "mean": 0.9972259253190536,
+                  "std": 0.0019544233513904452
+                },
+                "knn_overlap_to_x_ref": {
+                  "mean": 0.9278092813491822,
+                  "std": 0.01631061921579102
+                }
+              },
+              "gaussian_transformed": {
+                "ari_representation": {
+                  "mean": 0.6447365567925614,
+                  "std": 0.2271576164424969
+                },
+                "ari_x_obs": {
+                  "mean": 0.6302233592089085,
+                  "std": 0.2602938065489774
+                },
+                "ari_x_ref": {
+                  "mean": 0.8115899750828973,
+                  "std": 0.18912998519057478
+                },
+                "cka_to_x_ref": {
+                  "mean": 0.6330559894442558,
+                  "std": 0.1748463435244925
+                },
+                "distance_spearman_to_x_ref": {
+                  "mean": 0.6115520471268721,
+                  "std": 0.16753312008858653
+                },
+                "knn_overlap_to_x_ref": {
+                  "mean": 0.26779230922460556,
+                  "std": 0.1347556116270437
+                }
+              }
+            }
+          }
+        ],
+        "history": "runs/seed_42/geometry/training_history.jsonl",
+        "peak_memory_allocated": 2844917760,
+        "peak_memory_reserved": 10276044800,
+        "training_task_count": 100000,
+        "training_task_seed_first": 1000042,
+        "training_task_seed_last": 1100041,
+        "training_task_sha256": "ef0940a887d0ddba3f05fcd0b64de728263a198d5deefee1f6a2e30a00a9f4cf"
+      },
+      "zeus": {
+        "checkpoints": [
+          {
+            "checkpoint": "runs/seed_42/zeus/checkpoints/checkpoint_5000.pt",
+            "metrics": "runs/seed_42/zeus/metrics/checkpoint_5000.json",
+            "reused_from": "/data/luolie/DF-Cluster/outputs/zeus_geometry_probe/phase1_formal_resume_v3/runs/seed_42/zeus/checkpoints/checkpoint_5000.pt",
+            "step": 5000,
+            "summary": {
+              "gaussian": {
+                "ari_representation": {
+                  "mean": 0.4610174013125832,
+                  "std": 0.2331694699856646
+                },
+                "ari_x_obs": {
+                  "mean": 0.7848215089955072,
+                  "std": 0.20171145803934123
+                },
+                "ari_x_ref": {
+                  "mean": 0.7848215089955072,
+                  "std": 0.20171145803934123
+                },
+                "cka_to_x_ref": {
+                  "mean": 0.5158456493914128,
+                  "std": 0.16671463650429386
+                },
+                "distance_spearman_to_x_ref": {
+                  "mean": 0.5064257674425803,
+                  "std": 0.17057050778918068
+                },
+                "knn_overlap_to_x_ref": {
+                  "mean": 0.13145675741136073,
+                  "std": 0.14068794639954937
+                }
+              },
+              "gaussian_transformed": {
+                "ari_representation": {
+                  "mean": 0.42343377019181205,
+                  "std": 0.21257538606642054
+                },
+                "ari_x_obs": {
+                  "mean": 0.6303866362211383,
+                  "std": 0.2601842580913761
+                },
+                "ari_x_ref": {
+                  "mean": 0.8115907776643219,
+                  "std": 0.18913022620265102
+                },
+                "cka_to_x_ref": {
+                  "mean": 0.3660095700621605,
+                  "std": 0.1497771222491184
+                },
+                "distance_spearman_to_x_ref": {
+                  "mean": 0.38294401222750196,
+                  "std": 0.14872916678543202
+                },
+                "knn_overlap_to_x_ref": {
+                  "mean": 0.0913339675590396,
+                  "std": 0.08054450917832107
+                }
+              }
+            }
+          },
+          {
+            "checkpoint": "runs/seed_42/zeus/checkpoints/checkpoint_20000.pt",
+            "metrics": "runs/seed_42/zeus/metrics/checkpoint_20000.json",
+            "reused_from": "/data/luolie/DF-Cluster/outputs/zeus_geometry_probe/phase1_formal_resume_v3/runs/seed_42/zeus/checkpoints/checkpoint_20000.pt",
+            "step": 20000,
+            "summary": {
+              "gaussian": {
+                "ari_representation": {
+                  "mean": 0.16351394171660918,
+                  "std": 0.21575076525342313
+                },
+                "ari_x_obs": {
+                  "mean": 0.7848215089955072,
+                  "std": 0.20171145803934123
+                },
+                "ari_x_ref": {
+                  "mean": 0.7848215089955072,
+                  "std": 0.20171145803934123
+                },
+                "cka_to_x_ref": {
+                  "mean": 0.324533950984478,
+                  "std": 0.18043837706232127
+                },
+                "distance_spearman_to_x_ref": {
+                  "mean": 0.025612818376882243,
+                  "std": 0.10069613044602722
+                },
+                "knn_overlap_to_x_ref": {
+                  "mean": 0.011602741747628898,
+                  "std": 0.024357506681402036
+                }
+              },
+              "gaussian_transformed": {
+                "ari_representation": {
+                  "mean": 0.12243124129540535,
+                  "std": 0.15370946145383313
+                },
+                "ari_x_obs": {
+                  "mean": 0.6303866362211383,
+                  "std": 0.2601842580913761
+                },
+                "ari_x_ref": {
+                  "mean": 0.8115907776643219,
+                  "std": 0.18913022620265102
+                },
+                "cka_to_x_ref": {
+                  "mean": 0.18900750316679477,
+                  "std": 0.11430358521106602
+                },
+                "distance_spearman_to_x_ref": {
+                  "mean": 0.012978926667442915,
+                  "std": 0.052068327000736984
+                },
+                "knn_overlap_to_x_ref": {
+                  "mean": 0.007760895417886786,
+                  "std": 0.01617443737145883
+                }
+              }
+            }
+          },
+          {
+            "checkpoint": "runs/seed_42/zeus/checkpoints/checkpoint_50000.pt",
+            "metrics": "runs/seed_42/zeus/metrics/checkpoint_50000.json",
+            "reused_from": "/data/luolie/DF-Cluster/outputs/zeus_geometry_probe/phase1_formal_resume_v3/runs/seed_42/zeus/checkpoints/checkpoint_50000.pt",
+            "step": 50000,
+            "summary": {
+              "gaussian": {
+                "ari_representation": {
+                  "mean": 0.8230528169538408,
+                  "std": 0.14938133126945802
+                },
+                "ari_x_obs": {
+                  "mean": 0.7848215089955072,
+                  "std": 0.20171145803934123
+                },
+                "ari_x_ref": {
+                  "mean": 0.7848215089955072,
+                  "std": 0.20171145803934123
+                },
+                "cka_to_x_ref": {
+                  "mean": 0.5778359347581863,
+                  "std": 0.14404775615278503
+                },
+                "distance_spearman_to_x_ref": {
+                  "mean": 0.5385415600171249,
+                  "std": 0.16924351774151178
+                },
+                "knn_overlap_to_x_ref": {
+                  "mean": 0.10281207263469697,
+                  "std": 0.06055601183519831
+                }
+              },
+              "gaussian_transformed": {
+                "ari_representation": {
+                  "mean": 0.7532706574107095,
+                  "std": 0.19418680642032363
+                },
+                "ari_x_obs": {
+                  "mean": 0.6303866362211383,
+                  "std": 0.2601842580913761
+                },
+                "ari_x_ref": {
+                  "mean": 0.8115907776643219,
+                  "std": 0.18913022620265102
+                },
+                "cka_to_x_ref": {
+                  "mean": 0.4432333371043205,
+                  "std": 0.16409885580102512
+                },
+                "distance_spearman_to_x_ref": {
+                  "mean": 0.3910243244449174,
+                  "std": 0.18694069352948522
+                },
+                "knn_overlap_to_x_ref": {
+                  "mean": 0.07179365802556276,
+                  "std": 0.041952591124630394
+                }
+              }
+            }
+          },
+          {
+            "checkpoint": "runs/seed_42/zeus/checkpoints/checkpoint_75000.pt",
+            "metrics": "runs/seed_42/zeus/metrics/checkpoint_75000.json",
+            "reused_from": "/data/luolie/DF-Cluster/outputs/zeus_geometry_probe/phase1_formal_resume_v3/runs/seed_42/zeus/checkpoints/checkpoint_75000.pt",
+            "step": 75000,
+            "summary": {
+              "gaussian": {
+                "ari_representation": {
+                  "mean": 0.868229352248338,
+                  "std": 0.11375164734904132
+                },
+                "ari_x_obs": {
+                  "mean": 0.7848215089955072,
+                  "std": 0.20171145803934123
+                },
+                "ari_x_ref": {
+                  "mean": 0.7848215089955072,
+                  "std": 0.20171145803934123
+                },
+                "cka_to_x_ref": {
+                  "mean": 0.5822432705760002,
+                  "std": 0.1461450295367702
+                },
+                "distance_spearman_to_x_ref": {
+                  "mean": 0.5477131025797832,
+                  "std": 0.16353218068167072
+                },
+                "knn_overlap_to_x_ref": {
+                  "mean": 0.08883991457521916,
+                  "std": 0.05964957434721266
+                }
+              },
+              "gaussian_transformed": {
+                "ari_representation": {
+                  "mean": 0.800070595158377,
+                  "std": 0.1828510066050411
+                },
+                "ari_x_obs": {
+                  "mean": 0.6303866362211383,
+                  "std": 0.2601842580913761
+                },
+                "ari_x_ref": {
+                  "mean": 0.8115907776643219,
+                  "std": 0.18913022620265102
+                },
+                "cka_to_x_ref": {
+                  "mean": 0.442151640355587,
+                  "std": 0.16859332814637887
+                },
+                "distance_spearman_to_x_ref": {
+                  "mean": 0.3878924121743368,
+                  "std": 0.19404533702898485
+                },
+                "knn_overlap_to_x_ref": {
+                  "mean": 0.06434396993368864,
+                  "std": 0.04234447216479426
+                }
+              }
+            }
+          },
+          {
+            "checkpoint": "runs/seed_42/zeus/checkpoints/checkpoint_90000.pt",
+            "metrics": "runs/seed_42/zeus/metrics/checkpoint_90000.json",
+            "resumed_from": "/data/luolie/DF-Cluster/outputs/zeus_geometry_probe/phase1_formal_resume_v3/runs/seed_42/zeus/checkpoints/checkpoint_90000.pt",
+            "step": 90000,
+            "summary": {
+              "gaussian": {
+                "ari_representation": {
+                  "mean": 0.8694102795677963,
+                  "std": 0.12002665966059027
+                },
+                "ari_x_obs": {
+                  "mean": 0.7848215089955072,
+                  "std": 0.20171145803934123
+                },
+                "ari_x_ref": {
+                  "mean": 0.7848215089955072,
+                  "std": 0.20171145803934123
+                },
+                "cka_to_x_ref": {
+                  "mean": 0.579684567451477,
+                  "std": 0.14841256398692543
+                },
+                "distance_spearman_to_x_ref": {
+                  "mean": 0.5467191015357343,
+                  "std": 0.16287212289411168
+                },
+                "knn_overlap_to_x_ref": {
+                  "mean": 0.0876830556243658,
+                  "std": 0.061744562223958806
+                }
+              },
+              "gaussian_transformed": {
+                "ari_representation": {
+                  "mean": 0.810662662790169,
+                  "std": 0.1762470398718162
+                },
+                "ari_x_obs": {
+                  "mean": 0.6303866362211383,
+                  "std": 0.2601842580913761
+                },
+                "ari_x_ref": {
+                  "mean": 0.8115907776643219,
+                  "std": 0.18913022620265102
+                },
+                "cka_to_x_ref": {
+                  "mean": 0.44350065603852273,
+                  "std": 0.16850059160054723
+                },
+                "distance_spearman_to_x_ref": {
+                  "mean": 0.38823670782617453,
+                  "std": 0.1935274818608387
+                },
+                "knn_overlap_to_x_ref": {
+                  "mean": 0.06371297331526876,
+                  "std": 0.04300895496743428
+                }
+              }
+            }
+          },
+          {
+            "checkpoint": "runs/seed_42/zeus/checkpoints/checkpoint_100000.pt",
+            "metrics": "runs/seed_42/zeus/metrics/checkpoint_100000.json",
+            "step": 100000,
+            "summary": {
+              "gaussian": {
+                "ari_representation": {
+                  "mean": 0.8693187980405984,
+                  "std": 0.12059203320181988
+                },
+                "ari_x_obs": {
+                  "mean": 0.7848215089955072,
+                  "std": 0.20171145803934123
+                },
+                "ari_x_ref": {
+                  "mean": 0.784834855392131,
+                  "std": 0.20172125177152098
+                },
+                "cka_to_x_ref": {
+                  "mean": 0.5802755972743034,
+                  "std": 0.14826110424988836
+                },
+                "distance_spearman_to_x_ref": {
+                  "mean": 0.5462989808170835,
+                  "std": 0.1633652343798635
+                },
+                "knn_overlap_to_x_ref": {
+                  "mean": 0.08738594410941004,
+                  "std": 0.06201649829868782
+                }
+              },
+              "gaussian_transformed": {
+                "ari_representation": {
+                  "mean": 0.8161718498539844,
+                  "std": 0.16991263428502099
+                },
+                "ari_x_obs": {
+                  "mean": 0.630241935554831,
+                  "std": 0.26029615824672686
+                },
+                "ari_x_ref": {
+                  "mean": 0.8115899750828973,
+                  "std": 0.18912998519057478
+                },
+                "cka_to_x_ref": {
+                  "mean": 0.44512861102819445,
+                  "std": 0.16777400650695581
+                },
+                "distance_spearman_to_x_ref": {
+                  "mean": 0.3889720965578358,
+                  "std": 0.19212911033587796
+                },
+                "knn_overlap_to_x_ref": {
+                  "mean": 0.06319862991571426,
+                  "std": 0.042405859257776665
+                }
+              }
+            }
+          }
+        ],
+        "history": "runs/seed_42/zeus/training_history.jsonl",
+        "peak_memory_allocated": 2844917760,
+        "peak_memory_reserved": 10276044800,
+        "training_task_count": 100000,
+        "training_task_seed_first": 1000042,
+        "training_task_seed_last": 1100041,
+        "training_task_sha256": "ef0940a887d0ddba3f05fcd0b64de728263a198d5deefee1f6a2e30a00a9f4cf"
+      }
+    }
+  },
+  "checkpoint_provenance": {
+    "note": "The 5k/20k/50k/75k artifacts were created in the prior paired run and reused unchanged; 90k/100k and the complete task digest were produced by the normal v4 tail resume.",
+    "protocol_steps": [
+      5000,
+      20000,
+      50000,
+      75000,
+      90000,
+      100000
+    ],
+    "reused_prefix_source": "/data/luolie/DF-Cluster/outputs/zeus_geometry_probe/phase1_formal_resume_v3",
+    "reused_prefix_steps": [
+      5000,
+      20000,
+      50000,
+      75000
+    ],
+    "tail_resume_output": "/data/luolie/DF-Cluster/outputs/zeus_geometry_probe/phase1_formal_resume_v4",
+    "tail_resume_source_step": 90000
+  },
+  "config": {
+    "categorical_chance": 0.3,
+    "checkpoint_steps": [
+      5000,
+      20000,
+      50000,
+      75000,
+      90000,
+      100000
+    ],
+    "concurrency": 1,
+    "device": "cuda:0",
+    "dim": 30,
+    "dropout": 0.0,
+    "eigenvalue_p1": 0.005,
+    "eigenvalue_p2": 0.05,
+    "embed_dim": 512,
+    "eval_task_count": 100,
+    "eval_tasks": 1,
+    "formal": true,
+    "gpu_memory_budget_gib": 16.0,
+    "hid_dim": 1024,
+    "knn_k": 5,
+    "learning_rate": 3e-05,
+    "legal_gpu_pool": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "max_blocks": 3,
+    "max_categories": 5,
+    "max_points": 500,
+    "min_distance": 0.5,
+    "min_points": 50,
+    "n_head": 4,
+    "n_layers": 12,
+    "num_categorical": 5,
+    "num_gaussians": 10,
+    "phase": "phase1",
+    "phase1_gate": null,
+    "protocol_version": "zeus-target-only-v3",
+    "resume_from": "/data/luolie/DF-Cluster/outputs/zeus_geometry_probe/phase1_formal_resume_v3",
+    "resume_step": 90000,
+    "seed": 42,
+    "seeds": [
+      42
+    ],
+    "start_distance": 1.0,
+    "total_updates": 100000,
+    "train_mode": "random",
+    "train_steps": 2,
+    "weight_decay": 1e-05
+  },
+  "environment": {
+    "cuda_available": true,
+    "cuda_version": "13.0",
+    "cuda_visible_devices": "1",
+    "declared_concurrency": 1,
+    "declared_gpu_memory_budget_gib": 16.0,
+    "device": "cuda:0",
+    "git_revision": "f6382d3d98885dbf11584763e58fd2190d0d8ffa",
+    "hostname": "gpu",
+    "legal_gpu_pool": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "logical_device_index": 0,
+    "numpy": "2.4.6",
+    "nvidia_smi": [
+      "0, NVIDIA H100 80GB HBM3, 81559 MiB, 52087 MiB, 28993 MiB",
+      "1, NVIDIA H100 80GB HBM3, 81559 MiB, 22535 MiB, 58545 MiB",
+      "2, NVIDIA H100 80GB HBM3, 81559 MiB, 70017 MiB, 11063 MiB",
+      "3, NVIDIA H100 80GB HBM3, 81559 MiB, 36 MiB, 81044 MiB",
+      "4, NVIDIA H100 80GB HBM3, 81559 MiB, 69175 MiB, 11905 MiB",
+      "5, NVIDIA H100 80GB HBM3, 81559 MiB, 68865 MiB, 12215 MiB",
+      "6, NVIDIA H100 80GB HBM3, 81559 MiB, 68579 MiB, 12501 MiB",
+      "7, NVIDIA H100 80GB HBM3, 81559 MiB, 75527 MiB, 5553 MiB"
+    ],
+    "physical_device_index": 1,
+    "pid": 1139140,
+    "platform": "Linux-5.15.0-94-generic-x86_64-with-glibc2.35",
+    "python": "3.13.13 | packaged by conda-forge | (main, Apr  8 2026, 02:00:33) [GCC 14.3.0]",
+    "timestamp_utc": "2026-08-28T08:38:24.386718+00:00",
+    "torch": "2.13.0+cu130"
+  },
+  "errors": [],
+  "evaluation_manifest": {
+    "known_k": true,
+    "modes": [
+      "gaussian",
+      "gaussian_transformed"
+    ],
+    "path": "evaluation_manifest.json",
+    "sha256": "bb18c6d51343d02369bf4571aab164b51f4168f2f316ccad60d54d64f241d9fd",
+    "task_count_per_mode": 100
+  },
+  "phase": "phase1",
+  "protocol": {
+    "comparison": "same ZEUS generator, Transformer initialization, task seed stream, optimizer, scheduler, and update count; objective only differs",
+    "geometry_objective": "1 - centered_linear_cka(H, X_ref)",
+    "known_k_source": "synthetic evaluation labels only; evaluation clustering stage",
+    "labels_in_training": "only the pre-registered ZEUS objective; never geometry objective/control/model selection",
+    "reference_source": "dataset_generator X_ref (pre-transformation reference)",
+    "training_data_source": "methods/zeus/zeus/datasets.py::dataset_generator(mode=\"random\")",
+    "zeus_objective": "gmm_loss_with_regularizes"
+  },
+  "protocol_version": "zeus-target-only-v3",
+  "resume_provenance": {
+    "mode": "checkpoint_resume",
+    "source_output": "/data/luolie/DF-Cluster/outputs/zeus_geometry_probe/phase1_formal_resume_v3",
+    "source_step": 90000
+  },
+  "schema_version": "zeus-geometry-phase-v1",
+  "source_sha256": {
+    "zeus/geometry_probe/core.py": "4e9ab233da479e896c7b2fda48e84b0f6916055c05a8821ffa036ffb3053068b",
+    "zeus/geometry_probe/metrics.py": "dea07f09b3104c69eefa7403d0c7e368926b562762f47066d8358faed91ffc00",
+    "zeus/geometry_probe/phase_runner.py": "1a5bc5feb7b8484531520873ccd80954eae5eb04914c76c0e454b4924e7f5206",
+    "zeus/zeus/configs.py": "d2bd00b212351c408783c342b7cca5e61346c44dd7057cc87b506c66f41cd97b",
+    "zeus/zeus/datasets.py": "c39f32f3926b5883ca72fe04905aecaeababcb04f8d161517110860f7d185bbd",
+    "zeus/zeus/initialziation.py": "dc645d51d0adf9698da11a268d172bdf14d213b531a199fd73f362a7a1b50ade",
+    "zeus/zeus/model/layer.py": "929772e636e41d45107056e64c2f363ecad7aae0b2ddbb221045c8bf03880f85",
+    "zeus/zeus/model/zeus.py": "3327abc1865de67bd81a8f1cdd41ba71bbaf526b8e2a2565bed3defe6ffbb00e",
+    "zeus/zeus/utils.py": "524e4654751b5addfc5dcbe80d0fed980986085dacecad4678651addf48a30db"
+  },
+  "status": "complete"
+}

@@ -1,0 +1,3867 @@
+{
+  "arm": "geometry",
+  "known_k": true,
+  "per_mode": {
+    "gaussian": [
+      {
+        "metrics": {
+          "ari_representation": 0.9386095663223759,
+          "ari_x_obs": 0.932182535319083,
+          "ari_x_ref": 0.932182535319083,
+          "cka_to_x_ref": 0.9991360306739807,
+          "distance_spearman_to_x_ref": 0.9990506618612414,
+          "knn_overlap_to_x_ref": 0.9250954985618591
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 0,
+          "n_clusters": 5,
+          "n_samples": 1570,
+          "requested_mode": "gaussian",
+          "seed": 10000000,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.43248461700206675,
+          "ari_x_obs": 0.3315531701207159,
+          "ari_x_ref": 0.3315531701207159,
+          "cka_to_x_ref": 0.9978446960449219,
+          "distance_spearman_to_x_ref": 0.9967033200227472,
+          "knn_overlap_to_x_ref": 0.9428571462631226
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 1,
+          "n_clusters": 6,
+          "n_samples": 1687,
+          "requested_mode": "gaussian",
+          "seed": 10000001,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8656847998029785,
+          "ari_x_obs": 0.8603179879865045,
+          "ari_x_ref": 0.8603179879865045,
+          "cka_to_x_ref": 0.9987058043479919,
+          "distance_spearman_to_x_ref": 0.9974490772042018,
+          "knn_overlap_to_x_ref": 0.949999988079071
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 2,
+          "n_clusters": 2,
+          "n_samples": 696,
+          "requested_mode": "gaussian",
+          "seed": 10000002,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.31621626172702577,
+          "ari_x_obs": 0.2989570054831449,
+          "ari_x_ref": 0.2989570054831449,
+          "cka_to_x_ref": 0.9977855086326599,
+          "distance_spearman_to_x_ref": 0.9969674582348466,
+          "knn_overlap_to_x_ref": 0.9567465782165527
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 3,
+          "n_clusters": 6,
+          "n_samples": 1586,
+          "requested_mode": "gaussian",
+          "seed": 10000003,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8904106461828281,
+          "ari_x_obs": 0.8900580937700908,
+          "ari_x_ref": 0.8900580937700908,
+          "cka_to_x_ref": 0.9989786744117737,
+          "distance_spearman_to_x_ref": 0.9986216053942589,
+          "knn_overlap_to_x_ref": 0.9389644861221313
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 4,
+          "n_clusters": 10,
+          "n_samples": 1468,
+          "requested_mode": "gaussian",
+          "seed": 10000004,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.6204018633387547,
+          "ari_x_obs": 0.6339875226337381,
+          "ari_x_ref": 0.6339875226337381,
+          "cka_to_x_ref": 0.9966317415237427,
+          "distance_spearman_to_x_ref": 0.9931145798133714,
+          "knn_overlap_to_x_ref": 0.9337978959083557
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 5,
+          "n_clusters": 6,
+          "n_samples": 1148,
+          "requested_mode": "gaussian",
+          "seed": 10000005,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.6724092248220037,
+          "ari_x_obs": 0.5704658667826923,
+          "ari_x_ref": 0.5704658667826923,
+          "cka_to_x_ref": 0.9983624219894409,
+          "distance_spearman_to_x_ref": 0.997466488840188,
+          "knn_overlap_to_x_ref": 0.9473952054977417
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 6,
+          "n_clusters": 8,
+          "n_samples": 1574,
+          "requested_mode": "gaussian",
+          "seed": 10000006,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.7330702738394478,
+          "ari_x_obs": 0.682962247482022,
+          "ari_x_ref": 0.682962247482022,
+          "cka_to_x_ref": 0.9981532096862793,
+          "distance_spearman_to_x_ref": 0.9963373821088494,
+          "knn_overlap_to_x_ref": 0.9472688436508179
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 7,
+          "n_clusters": 5,
+          "n_samples": 1373,
+          "requested_mode": "gaussian",
+          "seed": 10000007,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8999861912667342,
+          "ari_x_obs": 0.9126593418067456,
+          "ari_x_ref": 0.9126593418067456,
+          "cka_to_x_ref": 0.99794602394104,
+          "distance_spearman_to_x_ref": 0.9981604332980564,
+          "knn_overlap_to_x_ref": 0.9344714283943176
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 8,
+          "n_clusters": 9,
+          "n_samples": 1523,
+          "requested_mode": "gaussian",
+          "seed": 10000008,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.6484253618306112,
+          "ari_x_obs": 0.5997936550329053,
+          "ari_x_ref": 0.5997936550329053,
+          "cka_to_x_ref": 0.9982398748397827,
+          "distance_spearman_to_x_ref": 0.9971207570677544,
+          "knn_overlap_to_x_ref": 0.9220566749572754
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 9,
+          "n_clusters": 10,
+          "n_samples": 1342,
+          "requested_mode": "gaussian",
+          "seed": 10000009,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8279703077985945,
+          "ari_x_obs": 0.8314085606017086,
+          "ari_x_ref": 0.8314085606017086,
+          "cka_to_x_ref": 0.9987806677818298,
+          "distance_spearman_to_x_ref": 0.9983368669312094,
+          "knn_overlap_to_x_ref": 0.93648761510849
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 10,
+          "n_clusters": 7,
+          "n_samples": 1247,
+          "requested_mode": "gaussian",
+          "seed": 10000010,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9198583586837867,
+          "ari_x_obs": 0.9213494522065827,
+          "ari_x_ref": 0.9213494522065827,
+          "cka_to_x_ref": 0.9991071224212646,
+          "distance_spearman_to_x_ref": 0.9981582050142881,
+          "knn_overlap_to_x_ref": 0.9254924654960632
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 11,
+          "n_clusters": 4,
+          "n_samples": 1726,
+          "requested_mode": "gaussian",
+          "seed": 10000011,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8479247209887776,
+          "ari_x_obs": 0.8453132635173077,
+          "ari_x_ref": 0.8453132635173077,
+          "cka_to_x_ref": 0.999243974685669,
+          "distance_spearman_to_x_ref": 0.9985182569294758,
+          "knn_overlap_to_x_ref": 0.9294973611831665
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 12,
+          "n_clusters": 4,
+          "n_samples": 1512,
+          "requested_mode": "gaussian",
+          "seed": 10000012,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8509688114372432,
+          "ari_x_obs": 0.8699459504318677,
+          "ari_x_ref": 0.8699459504318677,
+          "cka_to_x_ref": 0.9987135529518127,
+          "distance_spearman_to_x_ref": 0.9976137231808835,
+          "knn_overlap_to_x_ref": 0.9185553789138794
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 13,
+          "n_clusters": 9,
+          "n_samples": 1606,
+          "requested_mode": "gaussian",
+          "seed": 10000013,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.5519513860107217,
+          "ari_x_obs": 0.5518486047783991,
+          "ari_x_ref": 0.5518486047783991,
+          "cka_to_x_ref": 0.9981689453125,
+          "distance_spearman_to_x_ref": 0.9965609178078222,
+          "knn_overlap_to_x_ref": 0.9367040395736694
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 14,
+          "n_clusters": 9,
+          "n_samples": 1068,
+          "requested_mode": "gaussian",
+          "seed": 10000014,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9732100064782612,
+          "ari_x_obs": 0.9732100064782612,
+          "ari_x_ref": 0.9732100064782612,
+          "cka_to_x_ref": 0.9992251992225647,
+          "distance_spearman_to_x_ref": 0.9985895615236484,
+          "knn_overlap_to_x_ref": 0.9276796579360962
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 15,
+          "n_clusters": 3,
+          "n_samples": 849,
+          "requested_mode": "gaussian",
+          "seed": 10000015,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 1.0,
+          "ari_x_obs": 1.0,
+          "ari_x_ref": 1.0,
+          "cka_to_x_ref": 0.9986745715141296,
+          "distance_spearman_to_x_ref": 0.9964142762917363,
+          "knn_overlap_to_x_ref": 0.9356799721717834
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 16,
+          "n_clusters": 2,
+          "n_samples": 625,
+          "requested_mode": "gaussian",
+          "seed": 10000016,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9585047254027736,
+          "ari_x_obs": 0.9616615081599525,
+          "ari_x_ref": 0.9616615081599525,
+          "cka_to_x_ref": 0.9989941716194153,
+          "distance_spearman_to_x_ref": 0.9986223795977032,
+          "knn_overlap_to_x_ref": 0.9253212213516235
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 17,
+          "n_clusters": 6,
+          "n_samples": 1323,
+          "requested_mode": "gaussian",
+          "seed": 10000017,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9603983591045216,
+          "ari_x_obs": 0.9603983591045216,
+          "ari_x_ref": 0.9603983591045216,
+          "cka_to_x_ref": 0.9975802302360535,
+          "distance_spearman_to_x_ref": 0.9954298126167852,
+          "knn_overlap_to_x_ref": 0.902325451374054
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 18,
+          "n_clusters": 2,
+          "n_samples": 301,
+          "requested_mode": "gaussian",
+          "seed": 10000018,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.5467617231367116,
+          "ari_x_obs": 0.6518605294684346,
+          "ari_x_ref": 0.6518605294684346,
+          "cka_to_x_ref": 0.9980234503746033,
+          "distance_spearman_to_x_ref": 0.9960137675392876,
+          "knn_overlap_to_x_ref": 0.9420140981674194
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 19,
+          "n_clusters": 10,
+          "n_samples": 1559,
+          "requested_mode": "gaussian",
+          "seed": 10000019,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8337887529317526,
+          "ari_x_obs": 0.8337887529317526,
+          "ari_x_ref": 0.8337887529317526,
+          "cka_to_x_ref": 0.9991975426673889,
+          "distance_spearman_to_x_ref": 0.998504389438413,
+          "knn_overlap_to_x_ref": 0.9262814521789551
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 20,
+          "n_clusters": 4,
+          "n_samples": 1229,
+          "requested_mode": "gaussian",
+          "seed": 10000020,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9319109824450903,
+          "ari_x_obs": 0.9292937071079594,
+          "ari_x_ref": 0.9292937071079594,
+          "cka_to_x_ref": 0.9989597797393799,
+          "distance_spearman_to_x_ref": 0.9986516777629132,
+          "knn_overlap_to_x_ref": 0.9333785176277161
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 21,
+          "n_clusters": 7,
+          "n_samples": 1477,
+          "requested_mode": "gaussian",
+          "seed": 10000021,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9208753541087148,
+          "ari_x_obs": 0.9165987731721398,
+          "ari_x_ref": 0.9165987731721398,
+          "cka_to_x_ref": 0.9989306330680847,
+          "distance_spearman_to_x_ref": 0.9991432901542349,
+          "knn_overlap_to_x_ref": 0.9533122181892395
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 22,
+          "n_clusters": 4,
+          "n_samples": 951,
+          "requested_mode": "gaussian",
+          "seed": 10000022,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9209380932037589,
+          "ari_x_obs": 0.9158753164188406,
+          "ari_x_ref": 0.9158753164188406,
+          "cka_to_x_ref": 0.9990549087524414,
+          "distance_spearman_to_x_ref": 0.9980413148231194,
+          "knn_overlap_to_x_ref": 0.9160277843475342
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 23,
+          "n_clusters": 5,
+          "n_samples": 1722,
+          "requested_mode": "gaussian",
+          "seed": 10000023,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.4998035680443568,
+          "ari_x_obs": 0.40283584953098484,
+          "ari_x_ref": 0.40283584953098484,
+          "cka_to_x_ref": 0.9981275796890259,
+          "distance_spearman_to_x_ref": 0.99623979034238,
+          "knn_overlap_to_x_ref": 0.9435373544692993
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 24,
+          "n_clusters": 5,
+          "n_samples": 1176,
+          "requested_mode": "gaussian",
+          "seed": 10000024,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8972312431243075,
+          "ari_x_obs": 0.8896905689598317,
+          "ari_x_ref": 0.8896905689598317,
+          "cka_to_x_ref": 0.9988268613815308,
+          "distance_spearman_to_x_ref": 0.9982290656303422,
+          "knn_overlap_to_x_ref": 0.9237197041511536
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 25,
+          "n_clusters": 5,
+          "n_samples": 742,
+          "requested_mode": "gaussian",
+          "seed": 10000025,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.7386951581177295,
+          "ari_x_obs": 0.6999138500911156,
+          "ari_x_ref": 0.6999138500911156,
+          "cka_to_x_ref": 0.9984988570213318,
+          "distance_spearman_to_x_ref": 0.9963534628019814,
+          "knn_overlap_to_x_ref": 0.930914044380188
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 26,
+          "n_clusters": 8,
+          "n_samples": 1488,
+          "requested_mode": "gaussian",
+          "seed": 10000026,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9648130027377427,
+          "ari_x_obs": 0.9648130027377427,
+          "ari_x_ref": 0.9648130027377427,
+          "cka_to_x_ref": 0.9970818758010864,
+          "distance_spearman_to_x_ref": 0.9953653280954301,
+          "knn_overlap_to_x_ref": 0.8894736170768738
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 27,
+          "n_clusters": 2,
+          "n_samples": 228,
+          "requested_mode": "gaussian",
+          "seed": 10000027,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.7920818980766445,
+          "ari_x_obs": 0.7871510773358178,
+          "ari_x_ref": 0.7871510773358178,
+          "cka_to_x_ref": 0.9988135695457458,
+          "distance_spearman_to_x_ref": 0.9981068267762155,
+          "knn_overlap_to_x_ref": 0.9175609350204468
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 28,
+          "n_clusters": 8,
+          "n_samples": 1230,
+          "requested_mode": "gaussian",
+          "seed": 10000028,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.37200000259137467,
+          "ari_x_obs": 0.3533690658051807,
+          "ari_x_ref": 0.3533690658051807,
+          "cka_to_x_ref": 0.9985442757606506,
+          "distance_spearman_to_x_ref": 0.9973604504912881,
+          "knn_overlap_to_x_ref": 0.9452991485595703
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 29,
+          "n_clusters": 7,
+          "n_samples": 1053,
+          "requested_mode": "gaussian",
+          "seed": 10000029,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.7509586864312463,
+          "ari_x_obs": 0.7373664353686383,
+          "ari_x_ref": 0.7373664353686383,
+          "cka_to_x_ref": 0.9949785470962524,
+          "distance_spearman_to_x_ref": 0.9924701514167997,
+          "knn_overlap_to_x_ref": 0.8927261233329773
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 30,
+          "n_clusters": 6,
+          "n_samples": 1691,
+          "requested_mode": "gaussian",
+          "seed": 10000030,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8249874859342429,
+          "ari_x_obs": 0.8304952102934633,
+          "ari_x_ref": 0.8304952102934633,
+          "cka_to_x_ref": 0.998784065246582,
+          "distance_spearman_to_x_ref": 0.9960485334603469,
+          "knn_overlap_to_x_ref": 0.9342302083969116
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 31,
+          "n_clusters": 2,
+          "n_samples": 669,
+          "requested_mode": "gaussian",
+          "seed": 10000031,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.5215594618903538,
+          "ari_x_obs": 0.47027592023537607,
+          "ari_x_ref": 0.47027592023537607,
+          "cka_to_x_ref": 0.9983004331588745,
+          "distance_spearman_to_x_ref": 0.995994670638288,
+          "knn_overlap_to_x_ref": 0.9377622604370117
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 32,
+          "n_clusters": 10,
+          "n_samples": 1430,
+          "requested_mode": "gaussian",
+          "seed": 10000032,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.7509288062050994,
+          "ari_x_obs": 0.7539275478558685,
+          "ari_x_ref": 0.7539275478558685,
+          "cka_to_x_ref": 0.9990218877792358,
+          "distance_spearman_to_x_ref": 0.9989197732199654,
+          "knn_overlap_to_x_ref": 0.9328279495239258
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 33,
+          "n_clusters": 8,
+          "n_samples": 1319,
+          "requested_mode": "gaussian",
+          "seed": 10000033,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.3831228765894554,
+          "ari_x_obs": 0.3831228765894554,
+          "ari_x_ref": 0.3831228765894554,
+          "cka_to_x_ref": 0.9961587190628052,
+          "distance_spearman_to_x_ref": 0.9939114071512647,
+          "knn_overlap_to_x_ref": 0.9258003234863281
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 34,
+          "n_clusters": 4,
+          "n_samples": 1062,
+          "requested_mode": "gaussian",
+          "seed": 10000034,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8227580813513315,
+          "ari_x_obs": 0.8347379166310815,
+          "ari_x_ref": 0.8347379166310815,
+          "cka_to_x_ref": 0.9980660080909729,
+          "distance_spearman_to_x_ref": 0.9977827988399199,
+          "knn_overlap_to_x_ref": 0.9119840264320374
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 35,
+          "n_clusters": 10,
+          "n_samples": 1502,
+          "requested_mode": "gaussian",
+          "seed": 10000035,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.6383042947192203,
+          "ari_x_obs": 0.6726797836085382,
+          "ari_x_ref": 0.6726797836085382,
+          "cka_to_x_ref": 0.9987888932228088,
+          "distance_spearman_to_x_ref": 0.99771656771025,
+          "knn_overlap_to_x_ref": 0.9483183026313782
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 36,
+          "n_clusters": 5,
+          "n_samples": 1219,
+          "requested_mode": "gaussian",
+          "seed": 10000036,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.48095120344162906,
+          "ari_x_obs": 0.4795600306275241,
+          "ari_x_ref": 0.4795600306275241,
+          "cka_to_x_ref": 0.9978156685829163,
+          "distance_spearman_to_x_ref": 0.9949210203592571,
+          "knn_overlap_to_x_ref": 0.9384905099868774
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 37,
+          "n_clusters": 5,
+          "n_samples": 1590,
+          "requested_mode": "gaussian",
+          "seed": 10000037,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.2910112631071597,
+          "ari_x_obs": 0.3106099048493663,
+          "ari_x_ref": 0.3106099048493663,
+          "cka_to_x_ref": 0.9981437921524048,
+          "distance_spearman_to_x_ref": 0.9972972506014518,
+          "knn_overlap_to_x_ref": 0.9335692524909973
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 38,
+          "n_clusters": 10,
+          "n_samples": 1695,
+          "requested_mode": "gaussian",
+          "seed": 10000038,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8537498607314562,
+          "ari_x_obs": 0.8612543522480728,
+          "ari_x_ref": 0.8612543522480728,
+          "cka_to_x_ref": 0.9991741180419922,
+          "distance_spearman_to_x_ref": 0.9989957332488621,
+          "knn_overlap_to_x_ref": 0.9300599694252014
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 39,
+          "n_clusters": 7,
+          "n_samples": 1670,
+          "requested_mode": "gaussian",
+          "seed": 10000039,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9046762743919476,
+          "ari_x_obs": 0.9125635612963121,
+          "ari_x_ref": 0.9125635612963121,
+          "cka_to_x_ref": 0.9986287951469421,
+          "distance_spearman_to_x_ref": 0.9985206477684299,
+          "knn_overlap_to_x_ref": 0.9328270554542542
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 40,
+          "n_clusters": 10,
+          "n_samples": 1712,
+          "requested_mode": "gaussian",
+          "seed": 10000040,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.881441719133669,
+          "ari_x_obs": 0.8739749975931871,
+          "ari_x_ref": 0.8739749975931871,
+          "cka_to_x_ref": 0.998733401298523,
+          "distance_spearman_to_x_ref": 0.9982353974967475,
+          "knn_overlap_to_x_ref": 0.9305605292320251
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 41,
+          "n_clusters": 2,
+          "n_samples": 553,
+          "requested_mode": "gaussian",
+          "seed": 10000041,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8001781507698876,
+          "ari_x_obs": 0.7826252960082698,
+          "ari_x_ref": 0.7826252960082698,
+          "cka_to_x_ref": 0.9990516304969788,
+          "distance_spearman_to_x_ref": 0.9982325471741619,
+          "knn_overlap_to_x_ref": 0.927388608455658
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 42,
+          "n_clusters": 4,
+          "n_samples": 1256,
+          "requested_mode": "gaussian",
+          "seed": 10000042,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.7982898085237681,
+          "ari_x_obs": 0.7925803156282947,
+          "ari_x_ref": 0.7925803156282947,
+          "cka_to_x_ref": 0.9984477758407593,
+          "distance_spearman_to_x_ref": 0.9967333528429716,
+          "knn_overlap_to_x_ref": 0.9099698066711426
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 43,
+          "n_clusters": 8,
+          "n_samples": 1324,
+          "requested_mode": "gaussian",
+          "seed": 10000043,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.816352043604278,
+          "ari_x_obs": 0.822658838376572,
+          "ari_x_ref": 0.822658838376572,
+          "cka_to_x_ref": 0.9990031719207764,
+          "distance_spearman_to_x_ref": 0.998362108530284,
+          "knn_overlap_to_x_ref": 0.9287400841712952
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 44,
+          "n_clusters": 4,
+          "n_samples": 1524,
+          "requested_mode": "gaussian",
+          "seed": 10000044,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9227086976625088,
+          "ari_x_obs": 0.9215107760380523,
+          "ari_x_ref": 0.9215107760380523,
+          "cka_to_x_ref": 0.9989648461341858,
+          "distance_spearman_to_x_ref": 0.9986733924041092,
+          "knn_overlap_to_x_ref": 0.9313087463378906
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 45,
+          "n_clusters": 6,
+          "n_samples": 1383,
+          "requested_mode": "gaussian",
+          "seed": 10000045,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9015032123816318,
+          "ari_x_obs": 0.905651574159859,
+          "ari_x_ref": 0.905651574159859,
+          "cka_to_x_ref": 0.9990151524543762,
+          "distance_spearman_to_x_ref": 0.9987364849327167,
+          "knn_overlap_to_x_ref": 0.9273492097854614
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 46,
+          "n_clusters": 7,
+          "n_samples": 1426,
+          "requested_mode": "gaussian",
+          "seed": 10000046,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9406626777426803,
+          "ari_x_obs": 0.9473680427337792,
+          "ari_x_ref": 0.9473680427337792,
+          "cka_to_x_ref": 0.9995421171188354,
+          "distance_spearman_to_x_ref": 0.9995470775496685,
+          "knn_overlap_to_x_ref": 0.9538071155548096
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 47,
+          "n_clusters": 7,
+          "n_samples": 1576,
+          "requested_mode": "gaussian",
+          "seed": 10000047,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.27940919073873427,
+          "ari_x_obs": 0.3113224763559568,
+          "ari_x_ref": 0.3113224763559568,
+          "cka_to_x_ref": 0.9987377524375916,
+          "distance_spearman_to_x_ref": 0.997490023642063,
+          "knn_overlap_to_x_ref": 0.943878173828125
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 48,
+          "n_clusters": 10,
+          "n_samples": 1511,
+          "requested_mode": "gaussian",
+          "seed": 10000048,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9556595308389384,
+          "ari_x_obs": 0.951826408263958,
+          "ari_x_ref": 0.951826408263958,
+          "cka_to_x_ref": 0.9985684752464294,
+          "distance_spearman_to_x_ref": 0.9974987412718717,
+          "knn_overlap_to_x_ref": 0.9233742952346802
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 49,
+          "n_clusters": 10,
+          "n_samples": 1707,
+          "requested_mode": "gaussian",
+          "seed": 10000049,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8446108572344633,
+          "ari_x_obs": 0.8445620150138672,
+          "ari_x_ref": 0.8445620150138672,
+          "cka_to_x_ref": 0.9990946054458618,
+          "distance_spearman_to_x_ref": 0.9983999463387351,
+          "knn_overlap_to_x_ref": 0.925940990447998
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 50,
+          "n_clusters": 3,
+          "n_samples": 983,
+          "requested_mode": "gaussian",
+          "seed": 10000050,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8855864335774931,
+          "ari_x_obs": 0.8842400519181415,
+          "ari_x_ref": 0.8842400519181415,
+          "cka_to_x_ref": 0.9987971186637878,
+          "distance_spearman_to_x_ref": 0.9981930070173622,
+          "knn_overlap_to_x_ref": 0.9289401769638062
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 51,
+          "n_clusters": 7,
+          "n_samples": 1472,
+          "requested_mode": "gaussian",
+          "seed": 10000051,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.6989216510973135,
+          "ari_x_obs": 0.7986296735215607,
+          "ari_x_ref": 0.7986296735215607,
+          "cka_to_x_ref": 0.998973548412323,
+          "distance_spearman_to_x_ref": 0.9986773673971683,
+          "knn_overlap_to_x_ref": 0.9440826773643494
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 52,
+          "n_clusters": 4,
+          "n_samples": 1259,
+          "requested_mode": "gaussian",
+          "seed": 10000052,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.968616469741625,
+          "ari_x_obs": 0.9583785092523925,
+          "ari_x_ref": 0.9583785092523925,
+          "cka_to_x_ref": 0.9948061108589172,
+          "distance_spearman_to_x_ref": 0.9965854682651923,
+          "knn_overlap_to_x_ref": 0.9204968810081482
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 53,
+          "n_clusters": 2,
+          "n_samples": 483,
+          "requested_mode": "gaussian",
+          "seed": 10000053,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9247582659542442,
+          "ari_x_obs": 0.9115483214618422,
+          "ari_x_ref": 0.9115483214618422,
+          "cka_to_x_ref": 0.9962865114212036,
+          "distance_spearman_to_x_ref": 0.9948308755647833,
+          "knn_overlap_to_x_ref": 0.9113028645515442
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 54,
+          "n_clusters": 7,
+          "n_samples": 1159,
+          "requested_mode": "gaussian",
+          "seed": 10000054,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9117552980752148,
+          "ari_x_obs": 0.9147089701840488,
+          "ari_x_ref": 0.9147089701840488,
+          "cka_to_x_ref": 0.9982560276985168,
+          "distance_spearman_to_x_ref": 0.9981678808005855,
+          "knn_overlap_to_x_ref": 0.9245283007621765
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 55,
+          "n_clusters": 5,
+          "n_samples": 1855,
+          "requested_mode": "gaussian",
+          "seed": 10000055,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.872512040683985,
+          "ari_x_obs": 0.8610707734591483,
+          "ari_x_ref": 0.8610707734591483,
+          "cka_to_x_ref": 0.9990990161895752,
+          "distance_spearman_to_x_ref": 0.9988062082879742,
+          "knn_overlap_to_x_ref": 0.932054877281189
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 56,
+          "n_clusters": 6,
+          "n_samples": 1460,
+          "requested_mode": "gaussian",
+          "seed": 10000056,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9543167850846255,
+          "ari_x_obs": 0.9528951945588405,
+          "ari_x_ref": 0.9528951945588405,
+          "cka_to_x_ref": 0.9988442063331604,
+          "distance_spearman_to_x_ref": 0.9983754117165795,
+          "knn_overlap_to_x_ref": 0.9300299882888794
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 57,
+          "n_clusters": 5,
+          "n_samples": 1998,
+          "requested_mode": "gaussian",
+          "seed": 10000057,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.48130490019943367,
+          "ari_x_obs": 0.49668954432235846,
+          "ari_x_ref": 0.49668954432235846,
+          "cka_to_x_ref": 0.997998058795929,
+          "distance_spearman_to_x_ref": 0.9963728520315152,
+          "knn_overlap_to_x_ref": 0.9380494952201843
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 58,
+          "n_clusters": 7,
+          "n_samples": 1456,
+          "requested_mode": "gaussian",
+          "seed": 10000058,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.878211923501831,
+          "ari_x_obs": 0.8772359131404671,
+          "ari_x_ref": 0.8772359131404671,
+          "cka_to_x_ref": 0.9987473487854004,
+          "distance_spearman_to_x_ref": 0.9973899572159495,
+          "knn_overlap_to_x_ref": 0.918117105960846
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 59,
+          "n_clusters": 9,
+          "n_samples": 1827,
+          "requested_mode": "gaussian",
+          "seed": 10000059,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.44689558957523834,
+          "ari_x_obs": 0.4180714424035441,
+          "ari_x_ref": 0.4180714424035441,
+          "cka_to_x_ref": 0.9975118637084961,
+          "distance_spearman_to_x_ref": 0.9960429129413169,
+          "knn_overlap_to_x_ref": 0.9355220198631287
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 60,
+          "n_clusters": 9,
+          "n_samples": 1523,
+          "requested_mode": "gaussian",
+          "seed": 10000060,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8949010567248468,
+          "ari_x_obs": 0.8983715951410829,
+          "ari_x_ref": 0.8983715951410829,
+          "cka_to_x_ref": 0.9968860149383545,
+          "distance_spearman_to_x_ref": 0.9964318493666806,
+          "knn_overlap_to_x_ref": 0.9003652334213257
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 61,
+          "n_clusters": 7,
+          "n_samples": 1369,
+          "requested_mode": "gaussian",
+          "seed": 10000061,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9712967647432363,
+          "ari_x_obs": 0.965782262697859,
+          "ari_x_ref": 0.965782262697859,
+          "cka_to_x_ref": 0.9987984895706177,
+          "distance_spearman_to_x_ref": 0.9984201697065799,
+          "knn_overlap_to_x_ref": 0.9117009043693542
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 62,
+          "n_clusters": 5,
+          "n_samples": 1658,
+          "requested_mode": "gaussian",
+          "seed": 10000062,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9191000374791469,
+          "ari_x_obs": 0.92956273198246,
+          "ari_x_ref": 0.92956273198246,
+          "cka_to_x_ref": 0.9986081719398499,
+          "distance_spearman_to_x_ref": 0.9976145916161034,
+          "knn_overlap_to_x_ref": 0.9159419536590576
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 63,
+          "n_clusters": 5,
+          "n_samples": 759,
+          "requested_mode": "gaussian",
+          "seed": 10000063,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.962388608645984,
+          "ari_x_obs": 0.962388608645984,
+          "ari_x_ref": 0.962388608645984,
+          "cka_to_x_ref": 0.9971704483032227,
+          "distance_spearman_to_x_ref": 0.9936983207577056,
+          "knn_overlap_to_x_ref": 0.9115044474601746
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 64,
+          "n_clusters": 2,
+          "n_samples": 226,
+          "requested_mode": "gaussian",
+          "seed": 10000064,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.37050879178033463,
+          "ari_x_obs": 0.37625638532405226,
+          "ari_x_ref": 0.37625638532405226,
+          "cka_to_x_ref": 0.9978368282318115,
+          "distance_spearman_to_x_ref": 0.9946800737127552,
+          "knn_overlap_to_x_ref": 0.9296551942825317
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 65,
+          "n_clusters": 8,
+          "n_samples": 1450,
+          "requested_mode": "gaussian",
+          "seed": 10000065,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8884103612538535,
+          "ari_x_obs": 0.892725879440296,
+          "ari_x_ref": 0.892725879440296,
+          "cka_to_x_ref": 0.9978892803192139,
+          "distance_spearman_to_x_ref": 0.9968941630298027,
+          "knn_overlap_to_x_ref": 0.9230505228042603
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 66,
+          "n_clusters": 8,
+          "n_samples": 1167,
+          "requested_mode": "gaussian",
+          "seed": 10000066,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8772521668955299,
+          "ari_x_obs": 0.8759078349509648,
+          "ari_x_ref": 0.8759078349509648,
+          "cka_to_x_ref": 0.9988526701927185,
+          "distance_spearman_to_x_ref": 0.9974049459107884,
+          "knn_overlap_to_x_ref": 0.927450954914093
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 67,
+          "n_clusters": 6,
+          "n_samples": 1224,
+          "requested_mode": "gaussian",
+          "seed": 10000067,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.917517551381253,
+          "ari_x_obs": 0.9317397934594023,
+          "ari_x_ref": 0.9317397934594023,
+          "cka_to_x_ref": 0.9986714124679565,
+          "distance_spearman_to_x_ref": 0.9977020430614144,
+          "knn_overlap_to_x_ref": 0.9118790626525879
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 68,
+          "n_clusters": 3,
+          "n_samples": 463,
+          "requested_mode": "gaussian",
+          "seed": 10000068,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8380514419678264,
+          "ari_x_obs": 0.8360466307018354,
+          "ari_x_ref": 0.8360466307018354,
+          "cka_to_x_ref": 0.9987295269966125,
+          "distance_spearman_to_x_ref": 0.997333962781949,
+          "knn_overlap_to_x_ref": 0.92771315574646
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 69,
+          "n_clusters": 6,
+          "n_samples": 1032,
+          "requested_mode": "gaussian",
+          "seed": 10000069,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.6923771632080434,
+          "ari_x_obs": 0.6573503072638486,
+          "ari_x_ref": 0.6573503072638486,
+          "cka_to_x_ref": 0.9986131191253662,
+          "distance_spearman_to_x_ref": 0.9975438757876047,
+          "knn_overlap_to_x_ref": 0.9109741449356079
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 70,
+          "n_clusters": 7,
+          "n_samples": 811,
+          "requested_mode": "gaussian",
+          "seed": 10000070,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9449651655907098,
+          "ari_x_obs": 0.9449651655907098,
+          "ari_x_ref": 0.9449651655907098,
+          "cka_to_x_ref": 0.9910365343093872,
+          "distance_spearman_to_x_ref": 0.9897382941523072,
+          "knn_overlap_to_x_ref": 0.8575342297554016
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 71,
+          "n_clusters": 2,
+          "n_samples": 219,
+          "requested_mode": "gaussian",
+          "seed": 10000071,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8771431147332163,
+          "ari_x_obs": 0.8928329555276124,
+          "ari_x_ref": 0.8928329555276124,
+          "cka_to_x_ref": 0.9985082745552063,
+          "distance_spearman_to_x_ref": 0.997634581649792,
+          "knn_overlap_to_x_ref": 0.9099181294441223
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 72,
+          "n_clusters": 5,
+          "n_samples": 1099,
+          "requested_mode": "gaussian",
+          "seed": 10000072,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.6218520532147664,
+          "ari_x_obs": 0.635332679343367,
+          "ari_x_ref": 0.635332679343367,
+          "cka_to_x_ref": 0.9978527426719666,
+          "distance_spearman_to_x_ref": 0.9965336653772341,
+          "knn_overlap_to_x_ref": 0.9433576464653015
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 73,
+          "n_clusters": 7,
+          "n_samples": 2055,
+          "requested_mode": "gaussian",
+          "seed": 10000073,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9159822623378702,
+          "ari_x_obs": 0.9117336881366593,
+          "ari_x_ref": 0.9117336881366593,
+          "cka_to_x_ref": 0.9988210797309875,
+          "distance_spearman_to_x_ref": 0.9979789920449041,
+          "knn_overlap_to_x_ref": 0.9301902055740356
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 74,
+          "n_clusters": 9,
+          "n_samples": 1209,
+          "requested_mode": "gaussian",
+          "seed": 10000074,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.869194433601867,
+          "ari_x_obs": 0.8647761526337406,
+          "ari_x_ref": 0.8647761526337406,
+          "cka_to_x_ref": 0.9987903237342834,
+          "distance_spearman_to_x_ref": 0.9984738525416239,
+          "knn_overlap_to_x_ref": 0.9337620139122009
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 75,
+          "n_clusters": 9,
+          "n_samples": 1244,
+          "requested_mode": "gaussian",
+          "seed": 10000075,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9256359070220115,
+          "ari_x_obs": 0.9357080642849314,
+          "ari_x_ref": 0.9357080642849314,
+          "cka_to_x_ref": 0.9991911053657532,
+          "distance_spearman_to_x_ref": 0.9989477878522198,
+          "knn_overlap_to_x_ref": 0.9417027235031128
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 76,
+          "n_clusters": 3,
+          "n_samples": 693,
+          "requested_mode": "gaussian",
+          "seed": 10000076,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.16939629641543322,
+          "ari_x_obs": 0.16939629641543322,
+          "ari_x_ref": 0.16939629641543322,
+          "cka_to_x_ref": 0.9924741983413696,
+          "distance_spearman_to_x_ref": 0.9894511520022805,
+          "knn_overlap_to_x_ref": 0.9539474248886108
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 77,
+          "n_clusters": 2,
+          "n_samples": 760,
+          "requested_mode": "gaussian",
+          "seed": 10000077,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8185202241495876,
+          "ari_x_obs": 0.8491202708182775,
+          "ari_x_ref": 0.8491202708182775,
+          "cka_to_x_ref": 0.9986001253128052,
+          "distance_spearman_to_x_ref": 0.9980772361704319,
+          "knn_overlap_to_x_ref": 0.9278688430786133
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 78,
+          "n_clusters": 6,
+          "n_samples": 1281,
+          "requested_mode": "gaussian",
+          "seed": 10000078,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9117391667768779,
+          "ari_x_obs": 0.9225189256565967,
+          "ari_x_ref": 0.9225189256565967,
+          "cka_to_x_ref": 0.9983828663825989,
+          "distance_spearman_to_x_ref": 0.9981724450966871,
+          "knn_overlap_to_x_ref": 0.9411566853523254
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 79,
+          "n_clusters": 9,
+          "n_samples": 1193,
+          "requested_mode": "gaussian",
+          "seed": 10000079,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9099420360558287,
+          "ari_x_obs": 0.9131262359025493,
+          "ari_x_ref": 0.9131262359025493,
+          "cka_to_x_ref": 0.9991104602813721,
+          "distance_spearman_to_x_ref": 0.9985907232340624,
+          "knn_overlap_to_x_ref": 0.9278388619422913
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 80,
+          "n_clusters": 5,
+          "n_samples": 1638,
+          "requested_mode": "gaussian",
+          "seed": 10000080,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9454137486283641,
+          "ari_x_obs": 0.9495396400049949,
+          "ari_x_ref": 0.9495396400049949,
+          "cka_to_x_ref": 0.9988476634025574,
+          "distance_spearman_to_x_ref": 0.9986227739472068,
+          "knn_overlap_to_x_ref": 0.9264218807220459
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 81,
+          "n_clusters": 6,
+          "n_samples": 1389,
+          "requested_mode": "gaussian",
+          "seed": 10000081,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9696661081253399,
+          "ari_x_obs": 0.9757088567780684,
+          "ari_x_ref": 0.9757088567780684,
+          "cka_to_x_ref": 0.9966911673545837,
+          "distance_spearman_to_x_ref": 0.995163831493897,
+          "knn_overlap_to_x_ref": 0.9266567826271057
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 82,
+          "n_clusters": 2,
+          "n_samples": 679,
+          "requested_mode": "gaussian",
+          "seed": 10000082,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8760976668381389,
+          "ari_x_obs": 0.8625253560484202,
+          "ari_x_ref": 0.8625253560484202,
+          "cka_to_x_ref": 0.998805582523346,
+          "distance_spearman_to_x_ref": 0.9986415986713333,
+          "knn_overlap_to_x_ref": 0.9299600720405579
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 83,
+          "n_clusters": 7,
+          "n_samples": 1502,
+          "requested_mode": "gaussian",
+          "seed": 10000083,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8977481165171023,
+          "ari_x_obs": 0.8964911031709449,
+          "ari_x_ref": 0.8964911031709449,
+          "cka_to_x_ref": 0.9990038871765137,
+          "distance_spearman_to_x_ref": 0.9975711479487058,
+          "knn_overlap_to_x_ref": 0.9360544085502625
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 84,
+          "n_clusters": 8,
+          "n_samples": 1764,
+          "requested_mode": "gaussian",
+          "seed": 10000084,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.5830441288255663,
+          "ari_x_obs": 0.5796192752134603,
+          "ari_x_ref": 0.5796192752134603,
+          "cka_to_x_ref": 0.9987857341766357,
+          "distance_spearman_to_x_ref": 0.9988504261017946,
+          "knn_overlap_to_x_ref": 0.9269540309906006
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 85,
+          "n_clusters": 5,
+          "n_samples": 1369,
+          "requested_mode": "gaussian",
+          "seed": 10000085,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.923091067621785,
+          "ari_x_obs": 0.923091067621785,
+          "ari_x_ref": 0.923091067621785,
+          "cka_to_x_ref": 0.9988711476325989,
+          "distance_spearman_to_x_ref": 0.9981772390985325,
+          "knn_overlap_to_x_ref": 0.9390697479248047
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 86,
+          "n_clusters": 3,
+          "n_samples": 860,
+          "requested_mode": "gaussian",
+          "seed": 10000086,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9094972112790611,
+          "ari_x_obs": 0.9156527187580615,
+          "ari_x_ref": 0.9156527187580615,
+          "cka_to_x_ref": 0.9984344244003296,
+          "distance_spearman_to_x_ref": 0.9973279843406988,
+          "knn_overlap_to_x_ref": 0.9079127907752991
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 87,
+          "n_clusters": 5,
+          "n_samples": 1744,
+          "requested_mode": "gaussian",
+          "seed": 10000087,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.918512801348141,
+          "ari_x_obs": 0.8053207136584849,
+          "ari_x_ref": 0.8053207136584849,
+          "cka_to_x_ref": 0.9982755184173584,
+          "distance_spearman_to_x_ref": 0.9961318808461547,
+          "knn_overlap_to_x_ref": 0.9187498688697815
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 88,
+          "n_clusters": 8,
+          "n_samples": 1312,
+          "requested_mode": "gaussian",
+          "seed": 10000088,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9714095204395866,
+          "ari_x_obs": 0.9714095204395866,
+          "ari_x_ref": 0.9714095204395866,
+          "cka_to_x_ref": 0.9982255101203918,
+          "distance_spearman_to_x_ref": 0.9976675664208746,
+          "knn_overlap_to_x_ref": 0.9047619104385376
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 89,
+          "n_clusters": 3,
+          "n_samples": 483,
+          "requested_mode": "gaussian",
+          "seed": 10000089,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8887569857353393,
+          "ari_x_obs": 0.8856665803842875,
+          "ari_x_ref": 0.8856665803842875,
+          "cka_to_x_ref": 0.9980133175849915,
+          "distance_spearman_to_x_ref": 0.9954598789402526,
+          "knn_overlap_to_x_ref": 0.9037879109382629
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 90,
+          "n_clusters": 3,
+          "n_samples": 1056,
+          "requested_mode": "gaussian",
+          "seed": 10000090,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8876158051265584,
+          "ari_x_obs": 0.8811793601229767,
+          "ari_x_ref": 0.8811793601229767,
+          "cka_to_x_ref": 0.9991946816444397,
+          "distance_spearman_to_x_ref": 0.9988934868909023,
+          "knn_overlap_to_x_ref": 0.9380073547363281
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 91,
+          "n_clusters": 6,
+          "n_samples": 813,
+          "requested_mode": "gaussian",
+          "seed": 10000091,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8949771756328331,
+          "ari_x_obs": 0.895669407177205,
+          "ari_x_ref": 0.895669407177205,
+          "cka_to_x_ref": 0.9987696409225464,
+          "distance_spearman_to_x_ref": 0.9976995892569561,
+          "knn_overlap_to_x_ref": 0.924851655960083
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 92,
+          "n_clusters": 9,
+          "n_samples": 1517,
+          "requested_mode": "gaussian",
+          "seed": 10000092,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8158667183829176,
+          "ari_x_obs": 0.8275095783213586,
+          "ari_x_ref": 0.8275095783213586,
+          "cka_to_x_ref": 0.9981462955474854,
+          "distance_spearman_to_x_ref": 0.9953740542575222,
+          "knn_overlap_to_x_ref": 0.9059107303619385
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 93,
+          "n_clusters": 4,
+          "n_samples": 829,
+          "requested_mode": "gaussian",
+          "seed": 10000093,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8957745470088959,
+          "ari_x_obs": 0.9098570845955182,
+          "ari_x_ref": 0.9098570845955182,
+          "cka_to_x_ref": 0.9987292289733887,
+          "distance_spearman_to_x_ref": 0.9982993654991917,
+          "knn_overlap_to_x_ref": 0.920061469078064
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 94,
+          "n_clusters": 9,
+          "n_samples": 1301,
+          "requested_mode": "gaussian",
+          "seed": 10000094,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9043759254759677,
+          "ari_x_obs": 0.9123749254423963,
+          "ari_x_ref": 0.9123749254423963,
+          "cka_to_x_ref": 0.9992592334747314,
+          "distance_spearman_to_x_ref": 0.9988142583687173,
+          "knn_overlap_to_x_ref": 0.9345628023147583
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 95,
+          "n_clusters": 6,
+          "n_samples": 1464,
+          "requested_mode": "gaussian",
+          "seed": 10000095,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.3009988824124366,
+          "ari_x_obs": 0.3996856414625733,
+          "ari_x_ref": 0.3996856414625733,
+          "cka_to_x_ref": 0.9954497814178467,
+          "distance_spearman_to_x_ref": 0.9939915333663305,
+          "knn_overlap_to_x_ref": 0.9220420122146606
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 96,
+          "n_clusters": 10,
+          "n_samples": 1665,
+          "requested_mode": "gaussian",
+          "seed": 10000096,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.869474107605337,
+          "ari_x_obs": 0.8706803130327786,
+          "ari_x_ref": 0.8706803130327786,
+          "cka_to_x_ref": 0.9987691640853882,
+          "distance_spearman_to_x_ref": 0.9974339308018537,
+          "knn_overlap_to_x_ref": 0.9173396825790405
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 97,
+          "n_clusters": 10,
+          "n_samples": 1684,
+          "requested_mode": "gaussian",
+          "seed": 10000097,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.3199358013997702,
+          "ari_x_obs": 0.3199358013997702,
+          "ari_x_ref": 0.3199358013997702,
+          "cka_to_x_ref": 0.9976620674133301,
+          "distance_spearman_to_x_ref": 0.9964038598461255,
+          "knn_overlap_to_x_ref": 0.9339731335639954
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 98,
+          "n_clusters": 7,
+          "n_samples": 1042,
+          "requested_mode": "gaussian",
+          "seed": 10000098,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8927396556424836,
+          "ari_x_obs": 0.8871851927464951,
+          "ari_x_ref": 0.8871851927464951,
+          "cka_to_x_ref": 0.9990531206130981,
+          "distance_spearman_to_x_ref": 0.9982863022254144,
+          "knn_overlap_to_x_ref": 0.9181443452835083
+        },
+        "task": {
+          "generator_mode": "gaussian",
+          "index": 99,
+          "n_clusters": 3,
+          "n_samples": 970,
+          "requested_mode": "gaussian",
+          "seed": 10000099,
+          "source_generator_mode": "gaussian_gaussian"
+        }
+      }
+    ],
+    "gaussian_transformed": [
+      {
+        "metrics": {
+          "ari_representation": 0.7590277456680715,
+          "ari_x_obs": 0.7436178622665336,
+          "ari_x_ref": 0.9320881394362326,
+          "cka_to_x_ref": 0.6237635016441345,
+          "distance_spearman_to_x_ref": 0.46646178499387636,
+          "knn_overlap_to_x_ref": 0.2194785326719284
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 0,
+          "n_clusters": 6,
+          "n_samples": 1304,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000000,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.7620141208404982,
+          "ari_x_obs": 0.8426356735363768,
+          "ari_x_ref": 0.8525282593945739,
+          "cka_to_x_ref": 0.5168181657791138,
+          "distance_spearman_to_x_ref": 0.47528563151026026,
+          "knn_overlap_to_x_ref": 0.21335357427597046
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 1,
+          "n_clusters": 8,
+          "n_samples": 1318,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000001,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.5687391855383136,
+          "ari_x_obs": 0.9044228776315326,
+          "ari_x_ref": 0.9156591021193914,
+          "cka_to_x_ref": 0.5695886611938477,
+          "distance_spearman_to_x_ref": 0.7123175967973064,
+          "knn_overlap_to_x_ref": 0.20206719636917114
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 2,
+          "n_clusters": 5,
+          "n_samples": 1161,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000002,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.7735150673670348,
+          "ari_x_obs": 0.7450550715642157,
+          "ari_x_ref": 0.8723361667416728,
+          "cka_to_x_ref": 0.5293101668357849,
+          "distance_spearman_to_x_ref": 0.5286016518733201,
+          "knn_overlap_to_x_ref": 0.13673722743988037
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 3,
+          "n_clusters": 4,
+          "n_samples": 1606,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000003,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9143794399826412,
+          "ari_x_obs": 0.9312146145150847,
+          "ari_x_ref": 0.8626762927094705,
+          "cka_to_x_ref": 0.5834206342697144,
+          "distance_spearman_to_x_ref": 0.5264244476599498,
+          "knn_overlap_to_x_ref": 0.17998629808425903
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 4,
+          "n_clusters": 5,
+          "n_samples": 1459,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000004,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9366648329655984,
+          "ari_x_obs": 0.9752708080848332,
+          "ari_x_ref": 0.8684491550847152,
+          "cka_to_x_ref": 0.5237025022506714,
+          "distance_spearman_to_x_ref": 0.42254490364874775,
+          "knn_overlap_to_x_ref": 0.22485876083374023
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 5,
+          "n_clusters": 8,
+          "n_samples": 1239,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000005,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8390087379440396,
+          "ari_x_obs": 0.8686039816126279,
+          "ari_x_ref": 0.7261389097795818,
+          "cka_to_x_ref": 0.952495813369751,
+          "distance_spearman_to_x_ref": 0.9281400596670246,
+          "knn_overlap_to_x_ref": 0.5835941433906555
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 6,
+          "n_clusters": 6,
+          "n_samples": 2109,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000006,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8772789236025832,
+          "ari_x_obs": 0.8723830693347719,
+          "ari_x_ref": 0.926367638635177,
+          "cka_to_x_ref": 0.6785592436790466,
+          "distance_spearman_to_x_ref": 0.6342057158946074,
+          "knn_overlap_to_x_ref": 0.18517158925533295
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 7,
+          "n_clusters": 5,
+          "n_samples": 1632,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000007,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.4252453149459253,
+          "ari_x_obs": 0.4433774467011584,
+          "ari_x_ref": 0.4756436320950912,
+          "cka_to_x_ref": 0.5466541647911072,
+          "distance_spearman_to_x_ref": 0.47608827517729607,
+          "knn_overlap_to_x_ref": 0.19868852198123932
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 8,
+          "n_clusters": 4,
+          "n_samples": 610,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000008,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.45198188021812924,
+          "ari_x_obs": 0.3039562354967507,
+          "ari_x_ref": 0.9526101103096297,
+          "cka_to_x_ref": 0.4850394129753113,
+          "distance_spearman_to_x_ref": 0.6225490888885442,
+          "knn_overlap_to_x_ref": 0.1610983908176422
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 9,
+          "n_clusters": 2,
+          "n_samples": 437,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000009,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.28508858538741194,
+          "ari_x_obs": 0.2531099322961129,
+          "ari_x_ref": 0.4472651666196673,
+          "cka_to_x_ref": 0.884762704372406,
+          "distance_spearman_to_x_ref": 0.823796474809744,
+          "knn_overlap_to_x_ref": 0.3844311535358429
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 10,
+          "n_clusters": 8,
+          "n_samples": 1503,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000010,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.5282320711259711,
+          "ari_x_obs": 0.8596297072436645,
+          "ari_x_ref": 0.681770505494894,
+          "cka_to_x_ref": 0.47384247183799744,
+          "distance_spearman_to_x_ref": 0.45446769569216316,
+          "knn_overlap_to_x_ref": 0.16543209552764893
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 11,
+          "n_clusters": 8,
+          "n_samples": 1377,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000011,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.5313944588832523,
+          "ari_x_obs": 0.5069581096351842,
+          "ari_x_ref": 0.8855466982725977,
+          "cka_to_x_ref": 0.4800201952457428,
+          "distance_spearman_to_x_ref": 0.4686784845224696,
+          "knn_overlap_to_x_ref": 0.13391414284706116
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 12,
+          "n_clusters": 5,
+          "n_samples": 1607,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000012,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.7257096995778476,
+          "ari_x_obs": 0.6967388287780689,
+          "ari_x_ref": 0.8833345056101238,
+          "cka_to_x_ref": 0.401423841714859,
+          "distance_spearman_to_x_ref": 0.3160678162186549,
+          "knn_overlap_to_x_ref": 0.31710097193717957
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 13,
+          "n_clusters": 5,
+          "n_samples": 1228,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000013,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8822513011024933,
+          "ari_x_obs": 0.8544793786698781,
+          "ari_x_ref": 0.9885840016554047,
+          "cka_to_x_ref": 0.7729589939117432,
+          "distance_spearman_to_x_ref": 0.6910057434327457,
+          "knn_overlap_to_x_ref": 0.17929759621620178
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 14,
+          "n_clusters": 4,
+          "n_samples": 1082,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000014,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.4615412390592421,
+          "ari_x_obs": 0.4495374123390493,
+          "ari_x_ref": 0.8946329978591016,
+          "cka_to_x_ref": 0.6578929424285889,
+          "distance_spearman_to_x_ref": 0.6428767920437303,
+          "knn_overlap_to_x_ref": 0.23283900320529938
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 15,
+          "n_clusters": 3,
+          "n_samples": 944,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000015,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.3868984964439477,
+          "ari_x_obs": 0.46838959153455545,
+          "ari_x_ref": 0.8851019370613752,
+          "cka_to_x_ref": 0.401559054851532,
+          "distance_spearman_to_x_ref": 0.3731415769372138,
+          "knn_overlap_to_x_ref": 0.16146230697631836
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 16,
+          "n_clusters": 9,
+          "n_samples": 1313,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000016,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9069685305446656,
+          "ari_x_obs": 0.9055160887548388,
+          "ari_x_ref": 0.9358419926914775,
+          "cka_to_x_ref": 0.6015630960464478,
+          "distance_spearman_to_x_ref": 0.5646901101101146,
+          "knn_overlap_to_x_ref": 0.18505115807056427
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 17,
+          "n_clusters": 5,
+          "n_samples": 1271,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000017,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8316789489226739,
+          "ari_x_obs": 0.05744664029054896,
+          "ari_x_ref": 0.9308432448917353,
+          "cka_to_x_ref": 0.5616660714149475,
+          "distance_spearman_to_x_ref": 0.6254170942375622,
+          "knn_overlap_to_x_ref": 0.26140350103378296
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 18,
+          "n_clusters": 2,
+          "n_samples": 342,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000018,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.35915265566595805,
+          "ari_x_obs": 0.33216496655165806,
+          "ari_x_ref": 0.4750901188598299,
+          "cka_to_x_ref": 0.8918643593788147,
+          "distance_spearman_to_x_ref": 0.8098422989200346,
+          "knn_overlap_to_x_ref": 0.42561647295951843
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 19,
+          "n_clusters": 8,
+          "n_samples": 1460,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000019,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9361840665115543,
+          "ari_x_obs": 0.9678297894345286,
+          "ari_x_ref": 0.9678297894345286,
+          "cka_to_x_ref": 0.6990432739257812,
+          "distance_spearman_to_x_ref": 0.6849800352043826,
+          "knn_overlap_to_x_ref": 0.21725068986415863
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 20,
+          "n_clusters": 2,
+          "n_samples": 371,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000020,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.5456532813407504,
+          "ari_x_obs": 0.5501965330943226,
+          "ari_x_ref": 0.9094248308750603,
+          "cka_to_x_ref": 0.5153120756149292,
+          "distance_spearman_to_x_ref": 0.5256982261311501,
+          "knn_overlap_to_x_ref": 0.15691937506198883
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 21,
+          "n_clusters": 3,
+          "n_samples": 831,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000021,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.4728933571093658,
+          "ari_x_obs": 0.21152494132989832,
+          "ari_x_ref": 0.5205627832169121,
+          "cka_to_x_ref": 0.8954674005508423,
+          "distance_spearman_to_x_ref": 0.8661761671496456,
+          "knn_overlap_to_x_ref": 0.403435617685318
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 22,
+          "n_clusters": 3,
+          "n_samples": 815,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000022,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.7194244750987503,
+          "ari_x_obs": 0.7237806124678035,
+          "ari_x_ref": 0.9299962328669422,
+          "cka_to_x_ref": 0.5749301910400391,
+          "distance_spearman_to_x_ref": 0.4967930969182698,
+          "knn_overlap_to_x_ref": 0.19155888259410858
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 23,
+          "n_clusters": 9,
+          "n_samples": 1469,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000023,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.522993440586963,
+          "ari_x_obs": 0.5462940438570043,
+          "ari_x_ref": 0.8396066197621179,
+          "cka_to_x_ref": 0.3959403336048126,
+          "distance_spearman_to_x_ref": 0.427192549366643,
+          "knn_overlap_to_x_ref": 0.14963798224925995
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 24,
+          "n_clusters": 7,
+          "n_samples": 1243,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000024,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8804197460816973,
+          "ari_x_obs": 0.8978169212688373,
+          "ari_x_ref": 0.9213265102600445,
+          "cka_to_x_ref": 0.6155136823654175,
+          "distance_spearman_to_x_ref": 0.6950384911436772,
+          "knn_overlap_to_x_ref": 0.26769229769706726
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 25,
+          "n_clusters": 2,
+          "n_samples": 650,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000025,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.4507248536087035,
+          "ari_x_obs": 0.4507248536087035,
+          "ari_x_ref": 0.4950065974608149,
+          "cka_to_x_ref": 0.8878975510597229,
+          "distance_spearman_to_x_ref": 0.8552571089611917,
+          "knn_overlap_to_x_ref": 0.2965240478515625
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 26,
+          "n_clusters": 2,
+          "n_samples": 748,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000026,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.7367612397134051,
+          "ari_x_obs": 0.8197820823933629,
+          "ari_x_ref": 0.8262771117815466,
+          "cka_to_x_ref": 0.565435528755188,
+          "distance_spearman_to_x_ref": 0.5857762919737883,
+          "knn_overlap_to_x_ref": 0.16289262473583221
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 27,
+          "n_clusters": 8,
+          "n_samples": 1369,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000027,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8088175473983521,
+          "ari_x_obs": 0.7938378365741272,
+          "ari_x_ref": 0.9236518928817042,
+          "cka_to_x_ref": 0.38761821389198303,
+          "distance_spearman_to_x_ref": 0.4051140353541819,
+          "knn_overlap_to_x_ref": 0.40360045433044434
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 28,
+          "n_clusters": 7,
+          "n_samples": 1722,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000028,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.4918206064452457,
+          "ari_x_obs": 0.5974935711653572,
+          "ari_x_ref": 0.8973834714665311,
+          "cka_to_x_ref": 0.49015602469444275,
+          "distance_spearman_to_x_ref": 0.4886921930919597,
+          "knn_overlap_to_x_ref": 0.151027113199234
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 29,
+          "n_clusters": 6,
+          "n_samples": 1217,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000029,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.49186434408008783,
+          "ari_x_obs": 0.4851375256836084,
+          "ari_x_ref": 0.7627769782309163,
+          "cka_to_x_ref": 0.7479549646377563,
+          "distance_spearman_to_x_ref": 0.7576152058317316,
+          "knn_overlap_to_x_ref": 0.25746867060661316
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 30,
+          "n_clusters": 3,
+          "n_samples": 877,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000030,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.03911428942155373,
+          "ari_x_obs": 0.03911428942155373,
+          "ari_x_ref": 0.03911428942155373,
+          "cka_to_x_ref": 0.8093741536140442,
+          "distance_spearman_to_x_ref": 0.8043489492337451,
+          "knn_overlap_to_x_ref": 0.33627018332481384
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 31,
+          "n_clusters": 2,
+          "n_samples": 681,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000031,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.37287983449630774,
+          "ari_x_obs": 0.4196028175612682,
+          "ari_x_ref": 0.4923014017640925,
+          "cka_to_x_ref": 0.8971962928771973,
+          "distance_spearman_to_x_ref": 0.8573561029543414,
+          "knn_overlap_to_x_ref": 0.46222710609436035
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 32,
+          "n_clusters": 4,
+          "n_samples": 916,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000032,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.7210105113498319,
+          "ari_x_obs": 0.8966724437128512,
+          "ari_x_ref": 0.9033328321471058,
+          "cka_to_x_ref": 0.49185898900032043,
+          "distance_spearman_to_x_ref": 0.6354826155526657,
+          "knn_overlap_to_x_ref": 0.13976766169071198
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 33,
+          "n_clusters": 3,
+          "n_samples": 1119,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000033,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9740997070409726,
+          "ari_x_obs": 0.8854150550730677,
+          "ari_x_ref": 0.974835633551743,
+          "cka_to_x_ref": 0.7230584621429443,
+          "distance_spearman_to_x_ref": 0.6927898402357721,
+          "knn_overlap_to_x_ref": 0.3081413209438324
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 34,
+          "n_clusters": 6,
+          "n_samples": 1302,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000034,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8609840077158394,
+          "ari_x_obs": 0.9002321870587535,
+          "ari_x_ref": 0.8654684833785403,
+          "cka_to_x_ref": 0.4755396246910095,
+          "distance_spearman_to_x_ref": 0.3975995504907068,
+          "knn_overlap_to_x_ref": 0.2017400860786438
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 35,
+          "n_clusters": 6,
+          "n_samples": 1839,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000035,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8657511947780929,
+          "ari_x_obs": 0.7857750533559598,
+          "ari_x_ref": 0.8782247270895385,
+          "cka_to_x_ref": 0.521428108215332,
+          "distance_spearman_to_x_ref": 0.49138004578947064,
+          "knn_overlap_to_x_ref": 0.2934702932834625
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 36,
+          "n_clusters": 10,
+          "n_samples": 1363,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000036,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9651773286949051,
+          "ari_x_obs": 0.9652387563029108,
+          "ari_x_ref": 0.9649868093843568,
+          "cka_to_x_ref": 0.6257967352867126,
+          "distance_spearman_to_x_ref": 0.6509860653693994,
+          "knn_overlap_to_x_ref": 0.18916256725788116
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 37,
+          "n_clusters": 2,
+          "n_samples": 609,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000037,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8801774012891469,
+          "ari_x_obs": 0.8250772506528916,
+          "ari_x_ref": 0.9078823688524217,
+          "cka_to_x_ref": 0.43778783082962036,
+          "distance_spearman_to_x_ref": 0.3176019846068318,
+          "knn_overlap_to_x_ref": 0.27306607365608215
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 38,
+          "n_clusters": 10,
+          "n_samples": 1771,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000038,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.6816609116905444,
+          "ari_x_obs": 0.7972196704863531,
+          "ari_x_ref": 0.9084229102686368,
+          "cka_to_x_ref": 0.4753865897655487,
+          "distance_spearman_to_x_ref": 0.5089995473243102,
+          "knn_overlap_to_x_ref": 0.1631353497505188
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 39,
+          "n_clusters": 10,
+          "n_samples": 1633,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000039,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.5106040467247336,
+          "ari_x_obs": 0.34065086632008007,
+          "ari_x_ref": 0.8255345641798822,
+          "cka_to_x_ref": 0.4969325661659241,
+          "distance_spearman_to_x_ref": 0.4841514164487446,
+          "knn_overlap_to_x_ref": 0.1358570009469986
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 40,
+          "n_clusters": 4,
+          "n_samples": 951,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000040,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8743090761120721,
+          "ari_x_obs": 0.9145674089956142,
+          "ari_x_ref": 0.8856081852461197,
+          "cka_to_x_ref": 0.6179460287094116,
+          "distance_spearman_to_x_ref": 0.5582199443254312,
+          "knn_overlap_to_x_ref": 0.21483518183231354
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 41,
+          "n_clusters": 10,
+          "n_samples": 1820,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000041,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.3817250830310398,
+          "ari_x_obs": 0.3817250830310398,
+          "ari_x_ref": 0.49099956680839263,
+          "cka_to_x_ref": 0.9396039843559265,
+          "distance_spearman_to_x_ref": 0.8830393852963999,
+          "knn_overlap_to_x_ref": 0.4349687993526459
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 42,
+          "n_clusters": 4,
+          "n_samples": 1121,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000042,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.7941025329440813,
+          "ari_x_obs": 0.7893479610804351,
+          "ari_x_ref": 0.8424223789901074,
+          "cka_to_x_ref": 0.9769521355628967,
+          "distance_spearman_to_x_ref": 0.9369767734988949,
+          "knn_overlap_to_x_ref": 0.6619718670845032
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 43,
+          "n_clusters": 5,
+          "n_samples": 1562,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000043,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.6353997589897727,
+          "ari_x_obs": 0.6338181319435288,
+          "ari_x_ref": 0.920282715468083,
+          "cka_to_x_ref": 0.6192958950996399,
+          "distance_spearman_to_x_ref": 0.7790194849158008,
+          "knn_overlap_to_x_ref": 0.37073594331741333
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 44,
+          "n_clusters": 6,
+          "n_samples": 1155,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000044,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.38462704335035935,
+          "ari_x_obs": 0.4149522162656974,
+          "ari_x_ref": 0.9195380611343477,
+          "cka_to_x_ref": 0.519961416721344,
+          "distance_spearman_to_x_ref": 0.512201126523177,
+          "knn_overlap_to_x_ref": 0.1454831212759018
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 45,
+          "n_clusters": 5,
+          "n_samples": 1273,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000045,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.7796135377612131,
+          "ari_x_obs": 0.8834437058520103,
+          "ari_x_ref": 0.8897791012908342,
+          "cka_to_x_ref": 0.53867506980896,
+          "distance_spearman_to_x_ref": 0.569839911557057,
+          "knn_overlap_to_x_ref": 0.17902754247188568
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 46,
+          "n_clusters": 8,
+          "n_samples": 1707,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000046,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.6122667422722922,
+          "ari_x_obs": 0.7025659882795348,
+          "ari_x_ref": 0.8321881826403292,
+          "cka_to_x_ref": 0.5539532899856567,
+          "distance_spearman_to_x_ref": 0.5273486720721303,
+          "knn_overlap_to_x_ref": 0.14769230782985687
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 47,
+          "n_clusters": 7,
+          "n_samples": 1625,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000047,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.46171540619492824,
+          "ari_x_obs": 0.45904753071871673,
+          "ari_x_ref": 0.44376808170229115,
+          "cka_to_x_ref": 0.774173378944397,
+          "distance_spearman_to_x_ref": 0.6262808495351468,
+          "knn_overlap_to_x_ref": 0.5490363836288452
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 48,
+          "n_clusters": 10,
+          "n_samples": 1401,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000048,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9546177019417648,
+          "ari_x_obs": 0.9661335094743992,
+          "ari_x_ref": 0.9037796755959929,
+          "cka_to_x_ref": 0.6316096782684326,
+          "distance_spearman_to_x_ref": 0.5877853400943678,
+          "knn_overlap_to_x_ref": 0.22226640582084656
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 49,
+          "n_clusters": 8,
+          "n_samples": 1509,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000049,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.915146897528435,
+          "ari_x_obs": 0.6641138616064838,
+          "ari_x_ref": 0.9657997047770449,
+          "cka_to_x_ref": 0.7698338627815247,
+          "distance_spearman_to_x_ref": 0.7502916670628142,
+          "knn_overlap_to_x_ref": 0.23906250298023224
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 50,
+          "n_clusters": 3,
+          "n_samples": 1152,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000050,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.951353870861002,
+          "ari_x_obs": 0.9945092282441036,
+          "ari_x_ref": 0.9154538104496667,
+          "cka_to_x_ref": 0.46486395597457886,
+          "distance_spearman_to_x_ref": 0.3620933590053258,
+          "knn_overlap_to_x_ref": 0.26031747460365295
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 51,
+          "n_clusters": 3,
+          "n_samples": 630,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000051,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.769040873405645,
+          "ari_x_obs": 0.7237778797807538,
+          "ari_x_ref": 0.9449176901112777,
+          "cka_to_x_ref": 0.5187631249427795,
+          "distance_spearman_to_x_ref": 0.4313937074028869,
+          "knn_overlap_to_x_ref": 0.2523031532764435
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 52,
+          "n_clusters": 8,
+          "n_samples": 1346,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000052,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.19816785026802136,
+          "ari_x_obs": 0.12760651376837404,
+          "ari_x_ref": 0.1715418956165372,
+          "cka_to_x_ref": 0.8983525633811951,
+          "distance_spearman_to_x_ref": 0.8048743518225957,
+          "knn_overlap_to_x_ref": 0.4790496826171875
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 53,
+          "n_clusters": 10,
+          "n_samples": 1389,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000053,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9634594627114851,
+          "ari_x_obs": 0.9588267081113989,
+          "ari_x_ref": 0.8917084378589238,
+          "cka_to_x_ref": 0.5706488490104675,
+          "distance_spearman_to_x_ref": 0.5253491967396964,
+          "knn_overlap_to_x_ref": 0.24919255077838898
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 54,
+          "n_clusters": 8,
+          "n_samples": 1610,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000054,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.7936604196609413,
+          "ari_x_obs": 0.7896877843177199,
+          "ari_x_ref": 0.843666004950841,
+          "cka_to_x_ref": 0.589699387550354,
+          "distance_spearman_to_x_ref": 0.5649341212761337,
+          "knn_overlap_to_x_ref": 0.17518344521522522
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 55,
+          "n_clusters": 6,
+          "n_samples": 1499,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000055,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.493799881743157,
+          "ari_x_obs": 0.6631806253598194,
+          "ari_x_ref": 0.6174314525534561,
+          "cka_to_x_ref": 0.9562034010887146,
+          "distance_spearman_to_x_ref": 0.9276316818736968,
+          "knn_overlap_to_x_ref": 0.6524699926376343
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 56,
+          "n_clusters": 7,
+          "n_samples": 1498,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000056,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.94766333301142,
+          "ari_x_obs": 0.8644198147650988,
+          "ari_x_ref": 0.9578240975723585,
+          "cka_to_x_ref": 0.9234342575073242,
+          "distance_spearman_to_x_ref": 0.8966538328414942,
+          "knn_overlap_to_x_ref": 0.5122078061103821
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 57,
+          "n_clusters": 3,
+          "n_samples": 770,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000057,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8048997785703416,
+          "ari_x_obs": 0.9097929680283646,
+          "ari_x_ref": 0.8975741927120738,
+          "cka_to_x_ref": 0.5545376539230347,
+          "distance_spearman_to_x_ref": 0.4923712778056071,
+          "knn_overlap_to_x_ref": 0.1965000182390213
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 58,
+          "n_clusters": 8,
+          "n_samples": 1600,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000058,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.27746401985249153,
+          "ari_x_obs": 0.2556271724281983,
+          "ari_x_ref": 0.31551776788494396,
+          "cka_to_x_ref": 0.714492917060852,
+          "distance_spearman_to_x_ref": 0.6105026422829499,
+          "knn_overlap_to_x_ref": 0.2322489619255066
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 59,
+          "n_clusters": 10,
+          "n_samples": 1414,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000059,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8563597182985355,
+          "ari_x_obs": 0.7748574905087432,
+          "ari_x_ref": 0.9239116508278217,
+          "cka_to_x_ref": 0.5410547852516174,
+          "distance_spearman_to_x_ref": 0.4712256253940999,
+          "knn_overlap_to_x_ref": 0.23607546091079712
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 60,
+          "n_clusters": 9,
+          "n_samples": 1325,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000060,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8406823226928645,
+          "ari_x_obs": 0.77392089117116,
+          "ari_x_ref": 0.8928590521685109,
+          "cka_to_x_ref": 0.5268369913101196,
+          "distance_spearman_to_x_ref": 0.4934394592066724,
+          "knn_overlap_to_x_ref": 0.16139455139636993
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 61,
+          "n_clusters": 3,
+          "n_samples": 1176,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000061,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.3930027178084928,
+          "ari_x_obs": 0.47323824461101865,
+          "ari_x_ref": 0.838668495927352,
+          "cka_to_x_ref": 0.4750303030014038,
+          "distance_spearman_to_x_ref": 0.5129585756321899,
+          "knn_overlap_to_x_ref": 0.18312795460224152
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 62,
+          "n_clusters": 8,
+          "n_samples": 1055,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000062,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8555325584194796,
+          "ari_x_obs": 0.7985327374392577,
+          "ari_x_ref": 0.87389998501927,
+          "cka_to_x_ref": 0.5742279291152954,
+          "distance_spearman_to_x_ref": 0.5243445500181966,
+          "knn_overlap_to_x_ref": 0.2609812915325165
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 63,
+          "n_clusters": 7,
+          "n_samples": 1712,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000063,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.5064618463970969,
+          "ari_x_obs": 0.5064618463970969,
+          "ari_x_ref": 0.9808871104184493,
+          "cka_to_x_ref": 0.8445544838905334,
+          "distance_spearman_to_x_ref": 0.7962297921422539,
+          "knn_overlap_to_x_ref": 0.2726694941520691
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 64,
+          "n_clusters": 3,
+          "n_samples": 944,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000064,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.6095068964355967,
+          "ari_x_obs": 0.7539627291856509,
+          "ari_x_ref": 0.8918504505747613,
+          "cka_to_x_ref": 0.4641744792461395,
+          "distance_spearman_to_x_ref": 0.44904520917501306,
+          "knn_overlap_to_x_ref": 0.12075100094079971
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 65,
+          "n_clusters": 3,
+          "n_samples": 1012,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000065,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.29276691937607835,
+          "ari_x_obs": 0.29090552844882955,
+          "ari_x_ref": 0.30103676326463497,
+          "cka_to_x_ref": 0.9514181613922119,
+          "distance_spearman_to_x_ref": 0.9201516097582014,
+          "knn_overlap_to_x_ref": 0.397244393825531
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 66,
+          "n_clusters": 8,
+          "n_samples": 1379,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000066,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.4242072010924017,
+          "ari_x_obs": 0.5576704705323365,
+          "ari_x_ref": 0.8620183307050602,
+          "cka_to_x_ref": 0.4064692556858063,
+          "distance_spearman_to_x_ref": 0.4432959294324874,
+          "knn_overlap_to_x_ref": 0.15629759430885315
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 67,
+          "n_clusters": 10,
+          "n_samples": 1707,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000067,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.19792813833232425,
+          "ari_x_obs": 0.013931594461950407,
+          "ari_x_ref": 0.9709999897123287,
+          "cka_to_x_ref": 0.4906139671802521,
+          "distance_spearman_to_x_ref": 0.5537507278362125,
+          "knn_overlap_to_x_ref": 0.15594542026519775
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 68,
+          "n_clusters": 2,
+          "n_samples": 513,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000068,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.6041766326777877,
+          "ari_x_obs": 0.5431598352560628,
+          "ari_x_ref": 0.862294326055474,
+          "cka_to_x_ref": 0.5620138049125671,
+          "distance_spearman_to_x_ref": 0.54982640933953,
+          "knn_overlap_to_x_ref": 0.17343872785568237
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 69,
+          "n_clusters": 6,
+          "n_samples": 1265,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000069,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.3101722423982341,
+          "ari_x_obs": 0.03931963568360125,
+          "ari_x_ref": 0.8384212757043509,
+          "cka_to_x_ref": 0.4034205973148346,
+          "distance_spearman_to_x_ref": 0.42503046972936565,
+          "knn_overlap_to_x_ref": 0.09666667133569717
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 70,
+          "n_clusters": 3,
+          "n_samples": 1080,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000070,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.32438179482609836,
+          "ari_x_obs": 0.3257924929217622,
+          "ari_x_ref": 0.4663015174470564,
+          "cka_to_x_ref": 0.718957245349884,
+          "distance_spearman_to_x_ref": 0.6355208833324126,
+          "knn_overlap_to_x_ref": 0.2851405739784241
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 71,
+          "n_clusters": 7,
+          "n_samples": 1245,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000071,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.6422941731947065,
+          "ari_x_obs": 0.4004308814886415,
+          "ari_x_ref": 0.9824286623035302,
+          "cka_to_x_ref": 0.5286151766777039,
+          "distance_spearman_to_x_ref": 0.5991463225419806,
+          "knn_overlap_to_x_ref": 0.20395606756210327
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 72,
+          "n_clusters": 2,
+          "n_samples": 455,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000072,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.899761127749293,
+          "ari_x_obs": 0.8727213595648969,
+          "ari_x_ref": 0.8599125665955772,
+          "cka_to_x_ref": 0.6504777669906616,
+          "distance_spearman_to_x_ref": 0.6361169357652092,
+          "knn_overlap_to_x_ref": 0.22144970297813416
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 73,
+          "n_clusters": 4,
+          "n_samples": 1352,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000073,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.6164474967553754,
+          "ari_x_obs": 0.6056993090681998,
+          "ari_x_ref": 0.9315273026621165,
+          "cka_to_x_ref": 0.929966390132904,
+          "distance_spearman_to_x_ref": 0.9056660670635088,
+          "knn_overlap_to_x_ref": 0.49956801533699036
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 74,
+          "n_clusters": 3,
+          "n_samples": 926,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000074,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.6023974780457794,
+          "ari_x_obs": 0.603231671923157,
+          "ari_x_ref": 0.615648906141468,
+          "cka_to_x_ref": 0.8793332576751709,
+          "distance_spearman_to_x_ref": 0.8717301647781963,
+          "knn_overlap_to_x_ref": 0.3870658874511719
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 75,
+          "n_clusters": 10,
+          "n_samples": 1670,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000075,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.6241418171004882,
+          "ari_x_obs": 0.6251842789167366,
+          "ari_x_ref": 0.6251842789167366,
+          "cka_to_x_ref": 0.9662204384803772,
+          "distance_spearman_to_x_ref": 0.9450255781847264,
+          "knn_overlap_to_x_ref": 0.5732142925262451
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 76,
+          "n_clusters": 3,
+          "n_samples": 672,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000076,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.7919406605693657,
+          "ari_x_obs": -0.0014766621779427952,
+          "ari_x_ref": 0.9457983560439694,
+          "cka_to_x_ref": 0.598504900932312,
+          "distance_spearman_to_x_ref": 0.580594939174206,
+          "knn_overlap_to_x_ref": 0.22657659649848938
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 77,
+          "n_clusters": 2,
+          "n_samples": 444,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000077,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9347155851922438,
+          "ari_x_obs": 0.9542533396573946,
+          "ari_x_ref": 0.9048896736542619,
+          "cka_to_x_ref": 0.5623215436935425,
+          "distance_spearman_to_x_ref": 0.5801417956765011,
+          "knn_overlap_to_x_ref": 0.18126244843006134
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 78,
+          "n_clusters": 8,
+          "n_samples": 1505,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000078,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.4982121002629268,
+          "ari_x_obs": 0.44486987683736007,
+          "ari_x_ref": 0.6953899507046182,
+          "cka_to_x_ref": 0.5352174043655396,
+          "distance_spearman_to_x_ref": 0.5307860294296103,
+          "knn_overlap_to_x_ref": 0.24283602833747864
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 79,
+          "n_clusters": 4,
+          "n_samples": 677,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000079,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8661319492117994,
+          "ari_x_obs": 0.8764630727410818,
+          "ari_x_ref": 0.8600182649271252,
+          "cka_to_x_ref": 0.9525517225265503,
+          "distance_spearman_to_x_ref": 0.8964913702763583,
+          "knn_overlap_to_x_ref": 0.6277976632118225
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 80,
+          "n_clusters": 8,
+          "n_samples": 1957,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000080,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.504010371952077,
+          "ari_x_obs": 0.5356828291231445,
+          "ari_x_ref": 0.8937628489628218,
+          "cka_to_x_ref": 0.5250956416130066,
+          "distance_spearman_to_x_ref": 0.48170036311482595,
+          "knn_overlap_to_x_ref": 0.15928144752979279
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 81,
+          "n_clusters": 5,
+          "n_samples": 1002,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000081,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8207174184436821,
+          "ari_x_obs": 0.7852255820973291,
+          "ari_x_ref": 0.9802959274067505,
+          "cka_to_x_ref": 0.7653117775917053,
+          "distance_spearman_to_x_ref": 0.70449653945323,
+          "knn_overlap_to_x_ref": 0.42274412512779236
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 82,
+          "n_clusters": 2,
+          "n_samples": 809,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000082,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9783804677953304,
+          "ari_x_obs": 0.9837638529324996,
+          "ari_x_ref": 0.9253331782663149,
+          "cka_to_x_ref": 0.7677586674690247,
+          "distance_spearman_to_x_ref": 0.7569678974448606,
+          "knn_overlap_to_x_ref": 0.2542005479335785
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 83,
+          "n_clusters": 2,
+          "n_samples": 738,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000083,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.44851000410616315,
+          "ari_x_obs": 0.44093669566386684,
+          "ari_x_ref": 0.8273553022098638,
+          "cka_to_x_ref": 0.42495474219322205,
+          "distance_spearman_to_x_ref": 0.42118794524550496,
+          "knn_overlap_to_x_ref": 0.12752114236354828
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 84,
+          "n_clusters": 7,
+          "n_samples": 1537,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000084,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.2246410774901887,
+          "ari_x_obs": 0.17410847086911974,
+          "ari_x_ref": 0.8772298780445431,
+          "cka_to_x_ref": 0.896635115146637,
+          "distance_spearman_to_x_ref": 0.8440644423630324,
+          "knn_overlap_to_x_ref": 0.46625766158103943
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 85,
+          "n_clusters": 5,
+          "n_samples": 1630,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000085,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.4579725655226273,
+          "ari_x_obs": 0.446130802918431,
+          "ari_x_ref": 0.5844970873456135,
+          "cka_to_x_ref": 0.7871875762939453,
+          "distance_spearman_to_x_ref": 0.7390218697642643,
+          "knn_overlap_to_x_ref": 0.2693619728088379
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 86,
+          "n_clusters": 10,
+          "n_samples": 1583,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000086,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.4989373109546859,
+          "ari_x_obs": 0.6532297023669185,
+          "ari_x_ref": 0.8602868623037058,
+          "cka_to_x_ref": 0.4917111098766327,
+          "distance_spearman_to_x_ref": 0.4712187641397117,
+          "knn_overlap_to_x_ref": 0.17343641817569733
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 87,
+          "n_clusters": 9,
+          "n_samples": 1423,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000087,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.4640932103297985,
+          "ari_x_obs": 0.6529706799410355,
+          "ari_x_ref": 0.9583170747114291,
+          "cka_to_x_ref": 0.4827292263507843,
+          "distance_spearman_to_x_ref": 0.4603892573706805,
+          "knn_overlap_to_x_ref": 0.16763754189014435
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 88,
+          "n_clusters": 4,
+          "n_samples": 618,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000088,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.4563600747847865,
+          "ari_x_obs": 0.3554528818045625,
+          "ari_x_ref": 0.867477997669131,
+          "cka_to_x_ref": 0.3826078474521637,
+          "distance_spearman_to_x_ref": 0.43954800016485407,
+          "knn_overlap_to_x_ref": 0.17247819900512695
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 89,
+          "n_clusters": 6,
+          "n_samples": 1606,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000089,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9520733366338592,
+          "ari_x_obs": 0.926591287802385,
+          "ari_x_ref": 0.9418833850298728,
+          "cka_to_x_ref": 0.37249502539634705,
+          "distance_spearman_to_x_ref": 0.34844610887728544,
+          "knn_overlap_to_x_ref": 0.3603617250919342
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 90,
+          "n_clusters": 10,
+          "n_samples": 1327,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000090,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.7295400123653967,
+          "ari_x_obs": 0.7703412763877496,
+          "ari_x_ref": 0.7807210976644545,
+          "cka_to_x_ref": 0.4278019368648529,
+          "distance_spearman_to_x_ref": 0.43759708673847475,
+          "knn_overlap_to_x_ref": 0.13601790368556976
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 91,
+          "n_clusters": 8,
+          "n_samples": 1341,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000091,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.8170686585247297,
+          "ari_x_obs": 0.8552792001192415,
+          "ari_x_ref": 0.897022679284842,
+          "cka_to_x_ref": 0.5220058560371399,
+          "distance_spearman_to_x_ref": 0.4724300347426747,
+          "knn_overlap_to_x_ref": 0.2071324735879898
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 92,
+          "n_clusters": 9,
+          "n_samples": 1374,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000092,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.4207257061815694,
+          "ari_x_obs": 0.4016478229724893,
+          "ari_x_ref": 0.6468974861039626,
+          "cka_to_x_ref": 0.7999776601791382,
+          "distance_spearman_to_x_ref": 0.7430319829289441,
+          "knn_overlap_to_x_ref": 0.2613885700702667
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 93,
+          "n_clusters": 5,
+          "n_samples": 1642,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000093,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.5432174729360005,
+          "ari_x_obs": 0.8761396361214777,
+          "ari_x_ref": 0.8430194314207252,
+          "cka_to_x_ref": 0.6029929518699646,
+          "distance_spearman_to_x_ref": 0.5792739693565756,
+          "knn_overlap_to_x_ref": 0.16452907025814056
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 94,
+          "n_clusters": 4,
+          "n_samples": 998,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000094,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.49356782407764344,
+          "ari_x_obs": 0.5297429508870057,
+          "ari_x_ref": 0.6106379901602879,
+          "cka_to_x_ref": 0.892676830291748,
+          "distance_spearman_to_x_ref": 0.8251897456593712,
+          "knn_overlap_to_x_ref": 0.5481278896331787
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 95,
+          "n_clusters": 5,
+          "n_samples": 1095,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000095,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.481472334033464,
+          "ari_x_obs": 0.5220202322185803,
+          "ari_x_ref": 0.890975495955391,
+          "cka_to_x_ref": 0.393604040145874,
+          "distance_spearman_to_x_ref": 0.4341083722021137,
+          "knn_overlap_to_x_ref": 0.1499282717704773
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 96,
+          "n_clusters": 7,
+          "n_samples": 1394,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000096,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.7128029627613411,
+          "ari_x_obs": 0.4112344086390906,
+          "ari_x_ref": 0.9217202644862081,
+          "cka_to_x_ref": 0.5727100968360901,
+          "distance_spearman_to_x_ref": 0.5637829680378542,
+          "knn_overlap_to_x_ref": 0.2077687680721283
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 97,
+          "n_clusters": 3,
+          "n_samples": 1107,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000097,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.9268730625523612,
+          "ari_x_obs": 0.9103559186833502,
+          "ari_x_ref": 0.9419188262789022,
+          "cka_to_x_ref": 0.6848323345184326,
+          "distance_spearman_to_x_ref": 0.6504388158388762,
+          "knn_overlap_to_x_ref": 0.22502219676971436
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 98,
+          "n_clusters": 3,
+          "n_samples": 1127,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000098,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      },
+      {
+        "metrics": {
+          "ari_representation": 0.570341481723341,
+          "ari_x_obs": 0.5636092762165733,
+          "ari_x_ref": 0.9895216263925366,
+          "cka_to_x_ref": 0.9205721616744995,
+          "distance_spearman_to_x_ref": 0.8967498482373788,
+          "knn_overlap_to_x_ref": 0.5734360218048096
+        },
+        "task": {
+          "generator_mode": "gaussian_transformed",
+          "index": 99,
+          "n_clusters": 3,
+          "n_samples": 1039,
+          "requested_mode": "gaussian_transformed",
+          "seed": 20000099,
+          "source_generator_mode": "gaussian_transformed"
+        }
+      }
+    ]
+  },
+  "schema_version": "zeus-geometry-phase-v1",
+  "seed": 42,
+  "step": 90000,
+  "summary": {
+    "gaussian": {
+      "ari_representation": {
+        "mean": 0.7867525937949625,
+        "std": 0.19950424680578088
+      },
+      "ari_x_obs": {
+        "mean": 0.7848215089955072,
+        "std": 0.20171145803934123
+      },
+      "ari_x_ref": {
+        "mean": 0.7848215089955072,
+        "std": 0.20171145803934123
+      },
+      "cka_to_x_ref": {
+        "mean": 0.9982448226213455,
+        "std": 0.0012790596114693837
+      },
+      "distance_spearman_to_x_ref": {
+        "mean": 0.9971930812960664,
+        "std": 0.0017883884889452937
+      },
+      "knn_overlap_to_x_ref": {
+        "mean": 0.927346886396408,
+        "std": 0.014985551638951938
+      }
+    },
+    "gaussian_transformed": {
+      "ari_representation": {
+        "mean": 0.6432134742717958,
+        "std": 0.22481469212844632
+      },
+      "ari_x_obs": {
+        "mean": 0.6303866362211383,
+        "std": 0.2601842580913761
+      },
+      "ari_x_ref": {
+        "mean": 0.8115907776643219,
+        "std": 0.18913022620265102
+      },
+      "cka_to_x_ref": {
+        "mean": 0.6327517664432526,
+        "std": 0.1745773324437248
+      },
+      "distance_spearman_to_x_ref": {
+        "mean": 0.6112860254366702,
+        "std": 0.16724322843777914
+      },
+      "knn_overlap_to_x_ref": {
+        "mean": 0.2679707296192646,
+        "std": 0.1348933994717045
+      }
+    }
+  }
+}

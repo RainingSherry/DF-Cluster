@@ -25,3 +25,9 @@
 - Audit controls and validity reports do not select tasks or tune the active method.
 
 The removed V3 legacy branch is not part of this project state and must not be recreated or used in V4 decisions.
+
+## ZEUS geometry target probe
+
+The current ZEUS comparison implementation is snapshotted in
+`methods/zeus_geometry_probe/`. Its complete formal Phase-1 report and metrics
+are in `results/zeus_geometry_probe/phase1_formal_resume_v4/`.

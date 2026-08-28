@@ -1,0 +1,1812 @@
+{
+  "clustering_stage": "evaluation_only",
+  "known_k": true,
+  "schema_version": "zeus-geometry-phase-v1",
+  "sha256": "bb18c6d51343d02369bf4571aab164b51f4168f2f316ccad60d54d64f241d9fd",
+  "tasks": {
+    "gaussian": [
+      {
+        "generator_mode": "gaussian",
+        "index": 0,
+        "n_clusters": 5,
+        "n_samples": 1570,
+        "requested_mode": "gaussian",
+        "seed": 10000000,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 1,
+        "n_clusters": 6,
+        "n_samples": 1687,
+        "requested_mode": "gaussian",
+        "seed": 10000001,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 2,
+        "n_clusters": 2,
+        "n_samples": 696,
+        "requested_mode": "gaussian",
+        "seed": 10000002,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 3,
+        "n_clusters": 6,
+        "n_samples": 1586,
+        "requested_mode": "gaussian",
+        "seed": 10000003,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 4,
+        "n_clusters": 10,
+        "n_samples": 1468,
+        "requested_mode": "gaussian",
+        "seed": 10000004,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 5,
+        "n_clusters": 6,
+        "n_samples": 1148,
+        "requested_mode": "gaussian",
+        "seed": 10000005,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 6,
+        "n_clusters": 8,
+        "n_samples": 1574,
+        "requested_mode": "gaussian",
+        "seed": 10000006,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 7,
+        "n_clusters": 5,
+        "n_samples": 1373,
+        "requested_mode": "gaussian",
+        "seed": 10000007,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 8,
+        "n_clusters": 9,
+        "n_samples": 1523,
+        "requested_mode": "gaussian",
+        "seed": 10000008,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 9,
+        "n_clusters": 10,
+        "n_samples": 1342,
+        "requested_mode": "gaussian",
+        "seed": 10000009,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 10,
+        "n_clusters": 7,
+        "n_samples": 1247,
+        "requested_mode": "gaussian",
+        "seed": 10000010,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 11,
+        "n_clusters": 4,
+        "n_samples": 1726,
+        "requested_mode": "gaussian",
+        "seed": 10000011,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 12,
+        "n_clusters": 4,
+        "n_samples": 1512,
+        "requested_mode": "gaussian",
+        "seed": 10000012,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 13,
+        "n_clusters": 9,
+        "n_samples": 1606,
+        "requested_mode": "gaussian",
+        "seed": 10000013,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 14,
+        "n_clusters": 9,
+        "n_samples": 1068,
+        "requested_mode": "gaussian",
+        "seed": 10000014,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 15,
+        "n_clusters": 3,
+        "n_samples": 849,
+        "requested_mode": "gaussian",
+        "seed": 10000015,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 16,
+        "n_clusters": 2,
+        "n_samples": 625,
+        "requested_mode": "gaussian",
+        "seed": 10000016,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 17,
+        "n_clusters": 6,
+        "n_samples": 1323,
+        "requested_mode": "gaussian",
+        "seed": 10000017,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 18,
+        "n_clusters": 2,
+        "n_samples": 301,
+        "requested_mode": "gaussian",
+        "seed": 10000018,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 19,
+        "n_clusters": 10,
+        "n_samples": 1559,
+        "requested_mode": "gaussian",
+        "seed": 10000019,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 20,
+        "n_clusters": 4,
+        "n_samples": 1229,
+        "requested_mode": "gaussian",
+        "seed": 10000020,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 21,
+        "n_clusters": 7,
+        "n_samples": 1477,
+        "requested_mode": "gaussian",
+        "seed": 10000021,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 22,
+        "n_clusters": 4,
+        "n_samples": 951,
+        "requested_mode": "gaussian",
+        "seed": 10000022,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 23,
+        "n_clusters": 5,
+        "n_samples": 1722,
+        "requested_mode": "gaussian",
+        "seed": 10000023,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 24,
+        "n_clusters": 5,
+        "n_samples": 1176,
+        "requested_mode": "gaussian",
+        "seed": 10000024,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 25,
+        "n_clusters": 5,
+        "n_samples": 742,
+        "requested_mode": "gaussian",
+        "seed": 10000025,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 26,
+        "n_clusters": 8,
+        "n_samples": 1488,
+        "requested_mode": "gaussian",
+        "seed": 10000026,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 27,
+        "n_clusters": 2,
+        "n_samples": 228,
+        "requested_mode": "gaussian",
+        "seed": 10000027,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 28,
+        "n_clusters": 8,
+        "n_samples": 1230,
+        "requested_mode": "gaussian",
+        "seed": 10000028,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 29,
+        "n_clusters": 7,
+        "n_samples": 1053,
+        "requested_mode": "gaussian",
+        "seed": 10000029,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 30,
+        "n_clusters": 6,
+        "n_samples": 1691,
+        "requested_mode": "gaussian",
+        "seed": 10000030,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 31,
+        "n_clusters": 2,
+        "n_samples": 669,
+        "requested_mode": "gaussian",
+        "seed": 10000031,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 32,
+        "n_clusters": 10,
+        "n_samples": 1430,
+        "requested_mode": "gaussian",
+        "seed": 10000032,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 33,
+        "n_clusters": 8,
+        "n_samples": 1319,
+        "requested_mode": "gaussian",
+        "seed": 10000033,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 34,
+        "n_clusters": 4,
+        "n_samples": 1062,
+        "requested_mode": "gaussian",
+        "seed": 10000034,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 35,
+        "n_clusters": 10,
+        "n_samples": 1502,
+        "requested_mode": "gaussian",
+        "seed": 10000035,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 36,
+        "n_clusters": 5,
+        "n_samples": 1219,
+        "requested_mode": "gaussian",
+        "seed": 10000036,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 37,
+        "n_clusters": 5,
+        "n_samples": 1590,
+        "requested_mode": "gaussian",
+        "seed": 10000037,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 38,
+        "n_clusters": 10,
+        "n_samples": 1695,
+        "requested_mode": "gaussian",
+        "seed": 10000038,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 39,
+        "n_clusters": 7,
+        "n_samples": 1670,
+        "requested_mode": "gaussian",
+        "seed": 10000039,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 40,
+        "n_clusters": 10,
+        "n_samples": 1712,
+        "requested_mode": "gaussian",
+        "seed": 10000040,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 41,
+        "n_clusters": 2,
+        "n_samples": 553,
+        "requested_mode": "gaussian",
+        "seed": 10000041,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 42,
+        "n_clusters": 4,
+        "n_samples": 1256,
+        "requested_mode": "gaussian",
+        "seed": 10000042,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 43,
+        "n_clusters": 8,
+        "n_samples": 1324,
+        "requested_mode": "gaussian",
+        "seed": 10000043,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 44,
+        "n_clusters": 4,
+        "n_samples": 1524,
+        "requested_mode": "gaussian",
+        "seed": 10000044,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 45,
+        "n_clusters": 6,
+        "n_samples": 1383,
+        "requested_mode": "gaussian",
+        "seed": 10000045,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 46,
+        "n_clusters": 7,
+        "n_samples": 1426,
+        "requested_mode": "gaussian",
+        "seed": 10000046,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 47,
+        "n_clusters": 7,
+        "n_samples": 1576,
+        "requested_mode": "gaussian",
+        "seed": 10000047,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 48,
+        "n_clusters": 10,
+        "n_samples": 1511,
+        "requested_mode": "gaussian",
+        "seed": 10000048,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 49,
+        "n_clusters": 10,
+        "n_samples": 1707,
+        "requested_mode": "gaussian",
+        "seed": 10000049,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 50,
+        "n_clusters": 3,
+        "n_samples": 983,
+        "requested_mode": "gaussian",
+        "seed": 10000050,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 51,
+        "n_clusters": 7,
+        "n_samples": 1472,
+        "requested_mode": "gaussian",
+        "seed": 10000051,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 52,
+        "n_clusters": 4,
+        "n_samples": 1259,
+        "requested_mode": "gaussian",
+        "seed": 10000052,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 53,
+        "n_clusters": 2,
+        "n_samples": 483,
+        "requested_mode": "gaussian",
+        "seed": 10000053,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 54,
+        "n_clusters": 7,
+        "n_samples": 1159,
+        "requested_mode": "gaussian",
+        "seed": 10000054,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 55,
+        "n_clusters": 5,
+        "n_samples": 1855,
+        "requested_mode": "gaussian",
+        "seed": 10000055,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 56,
+        "n_clusters": 6,
+        "n_samples": 1460,
+        "requested_mode": "gaussian",
+        "seed": 10000056,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 57,
+        "n_clusters": 5,
+        "n_samples": 1998,
+        "requested_mode": "gaussian",
+        "seed": 10000057,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 58,
+        "n_clusters": 7,
+        "n_samples": 1456,
+        "requested_mode": "gaussian",
+        "seed": 10000058,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 59,
+        "n_clusters": 9,
+        "n_samples": 1827,
+        "requested_mode": "gaussian",
+        "seed": 10000059,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 60,
+        "n_clusters": 9,
+        "n_samples": 1523,
+        "requested_mode": "gaussian",
+        "seed": 10000060,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 61,
+        "n_clusters": 7,
+        "n_samples": 1369,
+        "requested_mode": "gaussian",
+        "seed": 10000061,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 62,
+        "n_clusters": 5,
+        "n_samples": 1658,
+        "requested_mode": "gaussian",
+        "seed": 10000062,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 63,
+        "n_clusters": 5,
+        "n_samples": 759,
+        "requested_mode": "gaussian",
+        "seed": 10000063,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 64,
+        "n_clusters": 2,
+        "n_samples": 226,
+        "requested_mode": "gaussian",
+        "seed": 10000064,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 65,
+        "n_clusters": 8,
+        "n_samples": 1450,
+        "requested_mode": "gaussian",
+        "seed": 10000065,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 66,
+        "n_clusters": 8,
+        "n_samples": 1167,
+        "requested_mode": "gaussian",
+        "seed": 10000066,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 67,
+        "n_clusters": 6,
+        "n_samples": 1224,
+        "requested_mode": "gaussian",
+        "seed": 10000067,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 68,
+        "n_clusters": 3,
+        "n_samples": 463,
+        "requested_mode": "gaussian",
+        "seed": 10000068,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 69,
+        "n_clusters": 6,
+        "n_samples": 1032,
+        "requested_mode": "gaussian",
+        "seed": 10000069,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 70,
+        "n_clusters": 7,
+        "n_samples": 811,
+        "requested_mode": "gaussian",
+        "seed": 10000070,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 71,
+        "n_clusters": 2,
+        "n_samples": 219,
+        "requested_mode": "gaussian",
+        "seed": 10000071,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 72,
+        "n_clusters": 5,
+        "n_samples": 1099,
+        "requested_mode": "gaussian",
+        "seed": 10000072,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 73,
+        "n_clusters": 7,
+        "n_samples": 2055,
+        "requested_mode": "gaussian",
+        "seed": 10000073,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 74,
+        "n_clusters": 9,
+        "n_samples": 1209,
+        "requested_mode": "gaussian",
+        "seed": 10000074,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 75,
+        "n_clusters": 9,
+        "n_samples": 1244,
+        "requested_mode": "gaussian",
+        "seed": 10000075,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 76,
+        "n_clusters": 3,
+        "n_samples": 693,
+        "requested_mode": "gaussian",
+        "seed": 10000076,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 77,
+        "n_clusters": 2,
+        "n_samples": 760,
+        "requested_mode": "gaussian",
+        "seed": 10000077,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 78,
+        "n_clusters": 6,
+        "n_samples": 1281,
+        "requested_mode": "gaussian",
+        "seed": 10000078,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 79,
+        "n_clusters": 9,
+        "n_samples": 1193,
+        "requested_mode": "gaussian",
+        "seed": 10000079,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 80,
+        "n_clusters": 5,
+        "n_samples": 1638,
+        "requested_mode": "gaussian",
+        "seed": 10000080,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 81,
+        "n_clusters": 6,
+        "n_samples": 1389,
+        "requested_mode": "gaussian",
+        "seed": 10000081,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 82,
+        "n_clusters": 2,
+        "n_samples": 679,
+        "requested_mode": "gaussian",
+        "seed": 10000082,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 83,
+        "n_clusters": 7,
+        "n_samples": 1502,
+        "requested_mode": "gaussian",
+        "seed": 10000083,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 84,
+        "n_clusters": 8,
+        "n_samples": 1764,
+        "requested_mode": "gaussian",
+        "seed": 10000084,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 85,
+        "n_clusters": 5,
+        "n_samples": 1369,
+        "requested_mode": "gaussian",
+        "seed": 10000085,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 86,
+        "n_clusters": 3,
+        "n_samples": 860,
+        "requested_mode": "gaussian",
+        "seed": 10000086,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 87,
+        "n_clusters": 5,
+        "n_samples": 1744,
+        "requested_mode": "gaussian",
+        "seed": 10000087,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 88,
+        "n_clusters": 8,
+        "n_samples": 1312,
+        "requested_mode": "gaussian",
+        "seed": 10000088,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 89,
+        "n_clusters": 3,
+        "n_samples": 483,
+        "requested_mode": "gaussian",
+        "seed": 10000089,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 90,
+        "n_clusters": 3,
+        "n_samples": 1056,
+        "requested_mode": "gaussian",
+        "seed": 10000090,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 91,
+        "n_clusters": 6,
+        "n_samples": 813,
+        "requested_mode": "gaussian",
+        "seed": 10000091,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 92,
+        "n_clusters": 9,
+        "n_samples": 1517,
+        "requested_mode": "gaussian",
+        "seed": 10000092,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 93,
+        "n_clusters": 4,
+        "n_samples": 829,
+        "requested_mode": "gaussian",
+        "seed": 10000093,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 94,
+        "n_clusters": 9,
+        "n_samples": 1301,
+        "requested_mode": "gaussian",
+        "seed": 10000094,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 95,
+        "n_clusters": 6,
+        "n_samples": 1464,
+        "requested_mode": "gaussian",
+        "seed": 10000095,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 96,
+        "n_clusters": 10,
+        "n_samples": 1665,
+        "requested_mode": "gaussian",
+        "seed": 10000096,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 97,
+        "n_clusters": 10,
+        "n_samples": 1684,
+        "requested_mode": "gaussian",
+        "seed": 10000097,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 98,
+        "n_clusters": 7,
+        "n_samples": 1042,
+        "requested_mode": "gaussian",
+        "seed": 10000098,
+        "source_generator_mode": "gaussian_gaussian"
+      },
+      {
+        "generator_mode": "gaussian",
+        "index": 99,
+        "n_clusters": 3,
+        "n_samples": 970,
+        "requested_mode": "gaussian",
+        "seed": 10000099,
+        "source_generator_mode": "gaussian_gaussian"
+      }
+    ],
+    "gaussian_transformed": [
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 0,
+        "n_clusters": 6,
+        "n_samples": 1304,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000000,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 1,
+        "n_clusters": 8,
+        "n_samples": 1318,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000001,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 2,
+        "n_clusters": 5,
+        "n_samples": 1161,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000002,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 3,
+        "n_clusters": 4,
+        "n_samples": 1606,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000003,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 4,
+        "n_clusters": 5,
+        "n_samples": 1459,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000004,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 5,
+        "n_clusters": 8,
+        "n_samples": 1239,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000005,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 6,
+        "n_clusters": 6,
+        "n_samples": 2109,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000006,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 7,
+        "n_clusters": 5,
+        "n_samples": 1632,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000007,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 8,
+        "n_clusters": 4,
+        "n_samples": 610,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000008,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 9,
+        "n_clusters": 2,
+        "n_samples": 437,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000009,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 10,
+        "n_clusters": 8,
+        "n_samples": 1503,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000010,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 11,
+        "n_clusters": 8,
+        "n_samples": 1377,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000011,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 12,
+        "n_clusters": 5,
+        "n_samples": 1607,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000012,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 13,
+        "n_clusters": 5,
+        "n_samples": 1228,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000013,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 14,
+        "n_clusters": 4,
+        "n_samples": 1082,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000014,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 15,
+        "n_clusters": 3,
+        "n_samples": 944,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000015,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 16,
+        "n_clusters": 9,
+        "n_samples": 1313,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000016,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 17,
+        "n_clusters": 5,
+        "n_samples": 1271,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000017,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 18,
+        "n_clusters": 2,
+        "n_samples": 342,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000018,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 19,
+        "n_clusters": 8,
+        "n_samples": 1460,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000019,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 20,
+        "n_clusters": 2,
+        "n_samples": 371,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000020,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 21,
+        "n_clusters": 3,
+        "n_samples": 831,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000021,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 22,
+        "n_clusters": 3,
+        "n_samples": 815,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000022,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 23,
+        "n_clusters": 9,
+        "n_samples": 1469,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000023,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 24,
+        "n_clusters": 7,
+        "n_samples": 1243,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000024,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 25,
+        "n_clusters": 2,
+        "n_samples": 650,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000025,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 26,
+        "n_clusters": 2,
+        "n_samples": 748,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000026,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 27,
+        "n_clusters": 8,
+        "n_samples": 1369,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000027,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 28,
+        "n_clusters": 7,
+        "n_samples": 1722,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000028,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 29,
+        "n_clusters": 6,
+        "n_samples": 1217,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000029,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 30,
+        "n_clusters": 3,
+        "n_samples": 877,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000030,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 31,
+        "n_clusters": 2,
+        "n_samples": 681,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000031,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 32,
+        "n_clusters": 4,
+        "n_samples": 916,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000032,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 33,
+        "n_clusters": 3,
+        "n_samples": 1119,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000033,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 34,
+        "n_clusters": 6,
+        "n_samples": 1302,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000034,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 35,
+        "n_clusters": 6,
+        "n_samples": 1839,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000035,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 36,
+        "n_clusters": 10,
+        "n_samples": 1363,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000036,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 37,
+        "n_clusters": 2,
+        "n_samples": 609,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000037,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 38,
+        "n_clusters": 10,
+        "n_samples": 1771,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000038,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 39,
+        "n_clusters": 10,
+        "n_samples": 1633,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000039,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 40,
+        "n_clusters": 4,
+        "n_samples": 951,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000040,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 41,
+        "n_clusters": 10,
+        "n_samples": 1820,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000041,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 42,
+        "n_clusters": 4,
+        "n_samples": 1121,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000042,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 43,
+        "n_clusters": 5,
+        "n_samples": 1562,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000043,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 44,
+        "n_clusters": 6,
+        "n_samples": 1155,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000044,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 45,
+        "n_clusters": 5,
+        "n_samples": 1273,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000045,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 46,
+        "n_clusters": 8,
+        "n_samples": 1707,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000046,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 47,
+        "n_clusters": 7,
+        "n_samples": 1625,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000047,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 48,
+        "n_clusters": 10,
+        "n_samples": 1401,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000048,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 49,
+        "n_clusters": 8,
+        "n_samples": 1509,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000049,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 50,
+        "n_clusters": 3,
+        "n_samples": 1152,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000050,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 51,
+        "n_clusters": 3,
+        "n_samples": 630,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000051,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 52,
+        "n_clusters": 8,
+        "n_samples": 1346,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000052,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 53,
+        "n_clusters": 10,
+        "n_samples": 1389,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000053,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 54,
+        "n_clusters": 8,
+        "n_samples": 1610,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000054,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 55,
+        "n_clusters": 6,
+        "n_samples": 1499,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000055,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 56,
+        "n_clusters": 7,
+        "n_samples": 1498,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000056,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 57,
+        "n_clusters": 3,
+        "n_samples": 770,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000057,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 58,
+        "n_clusters": 8,
+        "n_samples": 1600,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000058,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 59,
+        "n_clusters": 10,
+        "n_samples": 1414,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000059,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 60,
+        "n_clusters": 9,
+        "n_samples": 1325,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000060,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 61,
+        "n_clusters": 3,
+        "n_samples": 1176,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000061,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 62,
+        "n_clusters": 8,
+        "n_samples": 1055,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000062,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 63,
+        "n_clusters": 7,
+        "n_samples": 1712,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000063,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 64,
+        "n_clusters": 3,
+        "n_samples": 944,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000064,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 65,
+        "n_clusters": 3,
+        "n_samples": 1012,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000065,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 66,
+        "n_clusters": 8,
+        "n_samples": 1379,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000066,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 67,
+        "n_clusters": 10,
+        "n_samples": 1707,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000067,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 68,
+        "n_clusters": 2,
+        "n_samples": 513,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000068,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 69,
+        "n_clusters": 6,
+        "n_samples": 1265,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000069,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 70,
+        "n_clusters": 3,
+        "n_samples": 1080,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000070,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 71,
+        "n_clusters": 7,
+        "n_samples": 1245,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000071,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 72,
+        "n_clusters": 2,
+        "n_samples": 455,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000072,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 73,
+        "n_clusters": 4,
+        "n_samples": 1352,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000073,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 74,
+        "n_clusters": 3,
+        "n_samples": 926,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000074,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 75,
+        "n_clusters": 10,
+        "n_samples": 1670,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000075,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 76,
+        "n_clusters": 3,
+        "n_samples": 672,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000076,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 77,
+        "n_clusters": 2,
+        "n_samples": 444,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000077,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 78,
+        "n_clusters": 8,
+        "n_samples": 1505,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000078,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 79,
+        "n_clusters": 4,
+        "n_samples": 677,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000079,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 80,
+        "n_clusters": 8,
+        "n_samples": 1957,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000080,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 81,
+        "n_clusters": 5,
+        "n_samples": 1002,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000081,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 82,
+        "n_clusters": 2,
+        "n_samples": 809,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000082,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 83,
+        "n_clusters": 2,
+        "n_samples": 738,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000083,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 84,
+        "n_clusters": 7,
+        "n_samples": 1537,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000084,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 85,
+        "n_clusters": 5,
+        "n_samples": 1630,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000085,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 86,
+        "n_clusters": 10,
+        "n_samples": 1583,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000086,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 87,
+        "n_clusters": 9,
+        "n_samples": 1423,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000087,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 88,
+        "n_clusters": 4,
+        "n_samples": 618,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000088,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 89,
+        "n_clusters": 6,
+        "n_samples": 1606,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000089,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 90,
+        "n_clusters": 10,
+        "n_samples": 1327,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000090,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 91,
+        "n_clusters": 8,
+        "n_samples": 1341,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000091,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 92,
+        "n_clusters": 9,
+        "n_samples": 1374,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000092,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 93,
+        "n_clusters": 5,
+        "n_samples": 1642,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000093,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 94,
+        "n_clusters": 4,
+        "n_samples": 998,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000094,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 95,
+        "n_clusters": 5,
+        "n_samples": 1095,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000095,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 96,
+        "n_clusters": 7,
+        "n_samples": 1394,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000096,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 97,
+        "n_clusters": 3,
+        "n_samples": 1107,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000097,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 98,
+        "n_clusters": 3,
+        "n_samples": 1127,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000098,
+        "source_generator_mode": "gaussian_transformed"
+      },
+      {
+        "generator_mode": "gaussian_transformed",
+        "index": 99,
+        "n_clusters": 3,
+        "n_samples": 1039,
+        "requested_mode": "gaussian_transformed",
+        "seed": 20000099,
+        "source_generator_mode": "gaussian_transformed"
+      }
+    ]
+  }
+}

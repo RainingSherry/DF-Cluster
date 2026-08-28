@@ -1,0 +1,20 @@
+{
+  "audit_status": "complete",
+  "checkpoint_steps": [
+    5000,
+    20000,
+    50000,
+    75000,
+    90000,
+    100000
+  ],
+  "compute_status": "complete_to_100000_updates",
+  "formal_report_status": "complete",
+  "phase2_gate": "not_created",
+  "resume_source": "/data/luolie/DF-Cluster/outputs/zeus_geometry_probe/phase1_formal_resume_v3",
+  "schema_version": "zeus-geometry-phase-v1",
+  "tail_resume_step": 90000,
+  "timestamp_utc": "2026-08-28T09:58:28.678763+00:00",
+  "training_task_sha256": "ef0940a887d0ddba3f05fcd0b64de728263a198d5deefee1f6a2e30a00a9f4cf",
+  "training_task_sha256_equal": true
+}
